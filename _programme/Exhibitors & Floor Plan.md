@@ -19,7 +19,15 @@ Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id
 
 
 
-|  | |
-| -------- | -------- |
-| **Workforce Singapore** | Singapore Airlines     |
-|![workforce singapore](/images/favicon-isomer.ico)Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. | Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. |
+|  | | |
+| -| - | -|
+| **Workforce Singapore** ![workforce singapore](/images/workforce_singapore.png) Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. |                 | **Singapore air** ![](/images/singapore_airlines.png) Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. |
+
+
+
+
+
+|  |  | |
+| -------- | -------- | -------- |
+|      |  Changi Airport Group  ![](/images/changi_airport.png)  Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V    |      |
+
