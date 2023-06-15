@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: OneAviation Careers 2023
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - Suntec Convention &
+      - Exhibition Centre
+      - Level 4, Hall 404-405
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: Main Office
+    title: Venue  Address
 contacts:
   - content:
       - phone: +65 6123 4567
