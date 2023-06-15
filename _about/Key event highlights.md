@@ -8,4 +8,11 @@ Themed career talk series, held in engaging panel discussion style, brings toget
 
 XX aviation companies will be exhibiting at the event, including XX, XX, XX, to share the role they play in the aviation ecosystem and career opportunities they offer
 
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center; gap: 50px">
+		<div style="width: 30%">
+			<img src="/images/about/icon-employee.svg">
+	</div>
+	<div>test</div>
+	</div>
+
 <h1 style="text-align: center; font-size: 32px">Join us! Together we will soar to greater heights!</h1>
