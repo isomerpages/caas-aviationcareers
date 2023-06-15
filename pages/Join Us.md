@@ -12,7 +12,7 @@ description: Join Us
 		1 Raffles Boulevard, Suntec City
 		Singapore 039593</p>
 	<br>
-	
+	<a style="text-decoration: none; color: black; font-weight: bold" href="https://www.google.com.sg/maps/search/Suntec+Singapore+Convention+%26+Exhibition+Centre+%E2%80%A8Level+4,+Hall+404+%E2%80%93+405+%E2%80%A8%E2%80%A81+Raffles+Boulevard,+Suntec+City+%E2%80%A8Singapore+039593/@1.2936739,103.855056,17z/data=!3m1!4b1?entry=ttu">VIEW MAP<img style="width:30px" src="/images/arrow-right.svg"></a>
 </div>
 <div style="width: 50%">
 	<h6>Date and Time</h6>
