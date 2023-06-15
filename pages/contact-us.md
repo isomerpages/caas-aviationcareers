@@ -16,8 +16,8 @@ locations:
     title: Venue  Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: ""
+      - other: ""
     title: General Enquiries & Feedback
 ---
