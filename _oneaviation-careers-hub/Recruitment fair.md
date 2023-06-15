@@ -16,14 +16,13 @@ description: ""
 		<p style="color: #152238; font-size: 1.5rem;">Workforce Singapore</p>
 			<img src="/images/wsgimg.png" alt="hero">
 		<p>Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p>
-		<button style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white; border-radius: 0; width: 100%">LEARN MORE
-	</button></div>
+			<center style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; border-radius: 0; text-decoration:none;"><a style="text-decoration:none; color: white;" href="https://google.com">LEARN MORE</a></center>
+		</div>
 	<div style="flex: 50%; padding-left: 2rem;">
 			<p style="color: #152238; font-size: 1.5rem;">Employment and Employability Institute</p>
 				<img src="/images/e2iimg.png" alt="hero">
 				<p>Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p>
-			<button style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white; border-radius: 0; width: 100%">LEARN MORE
-	</button></div>
+	<center style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; border-radius: 0; text-decoration:none;"><a style="text-decoration:none; color: white;" href="https://google.com">LEARN MORE</a></center></div>
 	</div>
 
 </div>
