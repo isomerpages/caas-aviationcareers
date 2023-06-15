@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id
 
 | | | 
 | -------- | -------- | 
-|![Dianne Russell ](/images/person1.png)| **Dianne Russell**  Chief Executive OfficerLorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
-|![Robert Fox](/images/person2.png)|**Robert Fox**  Chief Executive OfficerLorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
-|![Kristin Watson](/images/person3.png)|**Kristin Watson**  Chief Executive OfficerLorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
-|![Guy Hawkins](/images/person4.png)| **Guy Hawkins**  Chief Executive OfficerLorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
+|![Dianne Russell ](/images/person1.png)| **Dianne Russell.** Chief Executive Officer. Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
+|![Robert Fox](/images/person2.png)|**Robert Fox.**  Chief Executive Officer. Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
+|![Kristin Watson](/images/person3.png)|**Kristin Watson.**  Chief Executive Officer. Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
+|![Guy Hawkins](/images/person4.png)| **Guy Hawkins**.  Chief Executive Officer. Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V|
