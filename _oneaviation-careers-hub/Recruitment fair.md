@@ -7,7 +7,7 @@ description: ""
 	<img src="/images/imgheroneaviation.png" alt="hero">
 <h2 style="color: #152238">About OneAviation Careers Hub zone&nbsp;</h2>
 <p>As the aviation sector is complex and diverse, there are many possibilities and limitless choices for job seekers, and we understand that this can feel overwhelming. Together with our partners e2i, NTUC and WSG, we’ve put together a recruitment fair and career coaching zone to provide job seekers with a dedicated platform to connect with more than XX aviation employers, participate in walk-in interviews and engage our professional career coachers to chart your career path and prepare for the opportunities that lie ahead. </p>
-	<center><button style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0;" type="button">REGISTER NOW</button></center>
+	<center>    <a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none" href="https://google.com">REGISTER NOW</a></center>
 
 <h4 style="color: #152238; text-align: center">Join us! Together we will soar to greater heights!</h4>
 
