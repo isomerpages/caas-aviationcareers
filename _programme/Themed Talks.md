@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/themed_talks.png)
 
-## About Themed Career Talks
+## **About Themed Career Talks**
 
 Learn about the key pillars that will shape the future of aviation in Singapore and how you can be a part of it. Each 60-minute themed talk and Q&A session brings together industry experts and in-service professionals who will share diverse insights and perspectives in areas of operations, sustainability, technology and service, to showcase the ambitions and key initiatives for the future and highlight emerging job roles across various levels of experience and expertise.
 
