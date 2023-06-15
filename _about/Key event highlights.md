@@ -9,10 +9,10 @@ Themed career talk series, held in engaging panel discussion style, brings toget
 XX aviation companies will be exhibiting at the event, including XX, XX, XX, to share the role they play in the aviation ecosystem and career opportunities they offer
 
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
-<div style="width: 33%">
-<img style="width:115px;" src="/images/About/icon-employee.svg">
+<div style="width: 20%">
+<img src="/images/About/icon-employee.svg">
 </div>
-<div>
+<div style="width: 80%">
 <p>
 Integrated recruitment fair with on-site career coaching and interviews with aviation employers, to offer visitors a holistic experience, from exploring job openings, connecting with potential employers to preparing themselves for these new opportunities. Jointly organised with partners e2i, NTUC and WSG.
 </p>
@@ -22,23 +22,23 @@ Integrated recruitment fair with on-site career coaching and interviews with avi
 <br>
 
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
-	<div>
+<div style="width: 80%">
 	<p>
 Aviation technology showcase with interactive exhibits, to highlight exciting developments, innovations and key projects that the sector is embarking on as part of Air Transport Industry Transformation Map 2025&nbsp;
 	</p>
 </div>
-	<div style="width: 33%">
-	<img style="width:115px;" src="/images/About/icon-plane.svg">
+	<div style="width: 20%">
+	<img src="/images/About/icon-plane.svg">
 	</div>
 </div>
 
 <br>
 
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
-<div style="width: 33%">
-<img style="width:115px;" src="/images/About/icon-graduate.svg">
+<div style="width: 20%">
+<img src="/images/About/icon-graduate.svg">
 </div>
-<div>
+<div style="width: 80%">
 <p>
 Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals
 </p>
