@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.jpg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Learn More
 ---
