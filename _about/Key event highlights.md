@@ -19,6 +19,8 @@ Integrated recruitment fair with on-site career coaching and interviews with avi
 </div>
 </div>
 
+<br>
+
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center; gap: 50px">
 	<div>
 	<p>
@@ -29,6 +31,8 @@ Aviation technology showcase with interactive exhibits, to highlight exciting de
 	<img src="/images/About/icon-plane.svg">
 	</div>
 </div>
+
+<br>
 
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center; gap: 50px">
 <div style="width: 30%">
