@@ -14,7 +14,7 @@ XX aviation companies will be exhibiting at the event, including XX, XX, XX, to 
 </div>
 <div>
 <p>
-Integrated recruitment fair with on-site career coaching and interviews with aviation employers, to offer visitors a holistic experience, from exploring job openings, connecting with potential employers to preparing themselves for these new opportunities. Jointly organised with partners e2i, NTUC and WSG.
+Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals
 </p>
 </div>
 </div>
@@ -40,7 +40,7 @@ Aviation technology showcase with interactive exhibits, to highlight exciting de
 </div>
 <div>
 <p>
-Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals&nbsp;
+Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals
 </p>
 </div>
 </div>
