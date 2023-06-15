@@ -13,13 +13,13 @@ description: ""
 
 <div style="display: flex; flex-direction: row;">
 	<div style="flex: 50%; padding-right: 1rem;">
-		<p style="color: #152238; font-size: 1.3rem;">Workforce Singapore</p>
+		<p style="color: #152238; font-size: 1.5rem;">Workforce Singapore</p>
 			<img alt="hero" src="/images/wsgimg.png">
 		<p>Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p>
 		<button style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white; border-radius: 0; width: 100%">LEARN MORE
 	</button></div>
 	<div style="flex: 50%; padding-left: 1rem;">
-			<p style="color: #152238; font-size: 1.3rem;">Employment and Employability Institute</p>
+			<p style="color: #152238; font-size: 1.5rem;">Employment and Employability Institute</p>
 				<img alt="hero" src="/images/e2iimg.png">
 				<p>Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p>
 			<button style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white; border-radius: 0; width: 100%">LEARN MORE
