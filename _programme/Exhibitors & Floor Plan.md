@@ -30,4 +30,3 @@ Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id
 |  |  | |
 | -------- | -------- | -------- |
 |      |  Changi Airport Group  ![](/images/changi_airport.png)  Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V    |      |
-
