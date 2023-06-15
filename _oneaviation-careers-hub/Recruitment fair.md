@@ -9,8 +9,3 @@ As the aviation sector is complex and diverse, there are many possibilities and 
 
 #### Join us! Together we will soar to greater heights! 
 
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     | 
-
