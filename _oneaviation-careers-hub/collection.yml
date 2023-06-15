@@ -2,5 +2,5 @@ collections:
   oneaviation-careers-hub:
     output: true
     order:
-      - Career coaching.md
       - Recruitment fair.md
+      - Career coaching.md
