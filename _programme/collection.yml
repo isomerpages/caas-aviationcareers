@@ -2,6 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Company Talks.md
-      - Themed Talks.md
       - Exhibitors & Floor Plan.md
+      - Themed Talks.md
+      - Company Talks.md
