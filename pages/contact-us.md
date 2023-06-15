@@ -9,9 +9,9 @@ locations:
       - Exhibition Centre
       - Level 4, Hall 404-405
     operating_hours:
-      - days: Mon - Fri
+      - days: Friday and Saturday
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        description: 4 - 5 August 2023
     maps_link: ""
     title: Venue  Address
 contacts:
