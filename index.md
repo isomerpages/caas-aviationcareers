@@ -9,15 +9,17 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.jpg
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      key_highlights:
+        - title: Themed career talks & Company talks
+          description: Lorem ipsum dolor sit amet con
+          url: /programme/themed-talks/
+        - title: Exhibition & Technology Showcases
+          description: Lorem ipsum dolor sit amet con
+          url: programme/exhibitors-and-floor-plan/
+        - title: Future Talents & Career Coaching
+          description: Lorem ipsum dolor sit amet con
+          url: /oneaviation-careers-hub/career-coaching/
+        - title: Locate Us Here
+          description: Lorem ipsum dolor sit amet con
+          url: /join-us/
 ---
