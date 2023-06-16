@@ -21,3 +21,4 @@ Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id
 		<img src="/images/workforce_singapore.png">
 		<img src="/images/workforce_singapore.png">
 </div>
+
