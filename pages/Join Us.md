@@ -30,3 +30,5 @@ description: Join Us
 </p>
 </div>
 </div>
+
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #241538 !important;}</style>
