@@ -16,3 +16,5 @@ description: ""
 </div>
 
 <center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" href="">REGISTER NOW</a></center>
+
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
