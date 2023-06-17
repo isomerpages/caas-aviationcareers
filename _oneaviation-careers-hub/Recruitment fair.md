@@ -9,7 +9,7 @@ description: ""
 
 <h4 style="color: #152238; text-align: center; font-weight : bold;">Supported by</h4>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;margin-bottom: 4rem;">
 	<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="hero"></div>
 	<div style="flex: 50%; padding-left: 1.5rem;">	<p style="font-size:normal;">Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p></div>
 	</div>
