@@ -22,4 +22,4 @@ Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id
 		<img src="/images/workforce_singapore.png">
 </div>
 
-<style>#main-content .bp-section.bp-section-pagetitle {backgeound-color: #CB6F31 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle {background-color: #CB6F31 !important;}</style>
