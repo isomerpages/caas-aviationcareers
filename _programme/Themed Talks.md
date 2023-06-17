@@ -5,7 +5,7 @@ description: ""
 ---
 ### **About Themed Career Talks**
 
-Learn about the key pillars that will shape the future of aviation in Singapore and how you can be a part of it. Each 60-minute themed talk and Q&A session brings together industry experts and in-service professionals who will share diverse insights and perspectives in areas of operations, sustainability, technology and service, to showcase the ambitions and key initiatives for the future and highlight emerging job roles across various levels of experience and expertise.
+Learn about the key pillars that will shape the future of aviation in Singapore and how you can be a part of it. Each 60-minute themed talk and Q&amp;A session brings together industry experts and in-service professionals who will share diverse insights and perspectives in areas of operations, sustainability, technology and service, to showcase the ambitions and key initiatives for the future and highlight emerging job roles across various levels of experience and expertise.
 
 ### **Themed Career Talks – Topics**
 
@@ -24,3 +24,5 @@ Aviation is global, impactful and an enabler of global economic prosperity. Now,
 ##### **Service – The Singapore OneAviation experience**
 
 Changi Airport is more than just a gateway to the world, it’s a showcase of seamless operations, symbol of service excellence and shining testament to Singapore’s commitment and pursuit of excellence. Join us in our candid chat with key service professionals as they share their breadth of service experience, training requirements and challenges faced in their continuous pursuit to uphold the Singapore OneAviation experience.
+
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
