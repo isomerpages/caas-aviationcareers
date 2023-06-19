@@ -11,7 +11,7 @@ description: ""
 
 <div style="display: flex; flex-direction: row;margin-bottom: 4rem;">
 	<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="hero"></div>
-	<div style="flex: 50%; padding-left: 1.5rem;">	<p style="font-size:normal;">Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. V</p></div>
+	<div style="flex: 50%; padding-left: 1.5rem;">	<p style="font-size:normal;">Lorem ipsum dolor sit amet consectetur. Mauris eget purus eleifend id nisl amet. Ipsum iaculis pharetra mauris ullamcorper aenean nunc id. Sed neque sodales felis sagittis cras. </p></div>
 	</div>
 </div>
 
