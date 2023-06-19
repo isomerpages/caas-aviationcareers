@@ -1,0 +1,48 @@
+---
+title: Key Event Highlights
+permalink: /about/key-event-highlights/
+description: ""
+---
+# Key Event Highlights
+Themed career talk series, held in engaging panel discussion style, brings together aviation professionals and moderated by industry experts, to share their perspectives and the diverse career opportunities in the aviation sector, in the services and operations fields, as well as in emerging fields, technology and sustainability.
+
+XX aviation companies will be exhibiting at the event, including XX, XX, XX, to share the role they play in the aviation ecosystem and career opportunities they offer.
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 20%">
+<img src="/images/About/icon-employee.svg">
+</div>
+<div style="width: 80%">
+<p>
+Integrated recruitment fair with on-site career coaching and interviews with aviation employers, to offer visitors a holistic experience, from exploring job openings, connecting with potential employers to preparing themselves for these new opportunities. Jointly organised with partners e2i, NTUC and WSG.
+</p>
+</div>
+</div>
+
+<br>
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 80%">
+	<p>
+Aviation technology showcase with interactive exhibits, to highlight exciting developments, innovations and key projects that the sector is embarking on as part of Air Transport Industry Transformation Map 2025.
+	</p>
+</div>
+	<div style="width: 20%">
+	<img src="/images/About/icon-plane.svg">
+	</div>
+</div>
+
+<br>
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 20%">
+<img src="/images/About/icon-graduate.svg">
+</div>
+<div style="width: 80%">
+<p>
+Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals.
+</p>
+</div>
+</div>
+
+<h1 style="text-align: center; font-size: 32px">Join us! Together we will soar to greater heights!</h1>
