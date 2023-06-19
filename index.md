@@ -3,7 +3,7 @@ layout: homepage
 title: OneAviation Careers 2023
 description: "OneAviation Careers 2023. Join Us: a career where limitless
   possibilities await!"
-image: /images/banner.jpg
+image: /images/banner-caas-new.jpg
 permalink: /
 notification: ""
 sections:
