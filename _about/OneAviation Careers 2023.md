@@ -9,4 +9,4 @@ Along with our ambition to grow the Singapore Air Hub, new challenges emerge and
 	
 Join us at OneAviation Careers at Suntec City Convention Centre on 4 and 5 August 2023, where over XX aviation employers, educational institutions and partners will be showcasing career opportunities, technology, and innovation in the sector.
 	
-Discover the evolving world of aviation, where limitless possibilities await! Brought to you by the Civil Aviation Authority of Singapore (CAAS)
+Discover the evolving world of aviation, where limitless possibilities await! Brought to you by the Civil Aviation Authority of Singapore (CAAS).
