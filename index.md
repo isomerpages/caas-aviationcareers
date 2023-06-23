@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner-caas-new.jpg
+      background: /images/new_banner.jpg
       key_highlights:
         - title: Themed career talks & Company talks
           description: Lorem ipsum dolor sit amet con
