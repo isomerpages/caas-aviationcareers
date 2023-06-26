@@ -4,17 +4,13 @@ permalink: /about/key-event-highlights/
 description: ""
 ---
 # Key Event Highlights
-Themed career talk series, held in engaging panel discussion style, brings together aviation professionals and moderated by industry experts, to share their perspectives and the diverse career opportunities in the aviation sector, in the services and operations fields, as well as in emerging fields, technology and sustainability.
-
-XX aviation companies will be exhibiting at the event, including XX, XX, XX, to share the role they play in the aviation ecosystem and career opportunities they offer.
-
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 20%">
-<img src="/images/About/icon-employee.svg">
+<img src="/images/About/icon-booth.svg">
 </div>
 <div style="width: 80%">
 <p>
-Integrated recruitment fair with on-site career coaching and interviews with aviation employers, to offer visitors a holistic experience, from exploring job openings, connecting with potential employers to preparing themselves for these new opportunities. Jointly organised with partners e2i, NTUC and WSG.
+	<span style="font-weight: bold">Over 40 Exhibition</span> booths promoting aviation companies and showcasing careers, by key industry leaders such as Boeing, Bombardier, Changi Airport Group, FedEx, Singapore Airlines, ST Engineering, SATS, Pratt and Whitney, and many more!
 </p>
 </div>
 </div>
@@ -24,11 +20,11 @@ Integrated recruitment fair with on-site career coaching and interviews with avi
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 80%">
 	<p>
-Aviation technology showcase with interactive exhibits, to highlight exciting developments, innovations and key projects that the sector is embarking on as part of Air Transport Industry Transformation Map 2025.
+		<span style="font-weight: bold">Live on-site Career Coaching</span> by the NTUC Employment and Employability Institute (e2i) and Workforce Singapore (WSG). Free sessions with career coaches to help you discover a suitable career in aviation that suits your skills sets and interests!
 	</p>
 </div>
 	<div style="width: 20%">
-	<img src="/images/About/icon-plane.svg">
+	<img src="/images/About/icon-chat.svg">
 	</div>
 </div>
 
@@ -36,13 +32,50 @@ Aviation technology showcase with interactive exhibits, to highlight exciting de
 
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 20%">
-<img src="/images/About/icon-graduate.svg">
+<img src="/images/About/icon-employee.svg">
 </div>
 <div style="width: 80%">
 <p>
-Aviation Education zone curated with Institutes of Higher Learning, to feature the myriad of aviation educational pathways and training opportunities available to students and working professionals.
+	<span style="font-weight: bold">Pre-register or walk-in for a live interview on-site,</span> at the recruitment fair organized by the Employment and Employability Institute (e2i).
 </p>
 </div>
 </div>
 
-<h1 style="text-align: center; font-size: 32px">Join us! Together we will soar to greater heights!</h1>
+<br>
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 80%">
+	<p>
+		<span style="font-weight: bold">Aviation Education Zone</span> showcasing aviation education pathways and programmes, and skills upgrading opportunities for students and working professionals.
+	</p>
+</div>
+	<div style="width: 20%">
+	<img src="/images/About/icon-graduate.svg">
+	</div>
+</div>
+
+<br>
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 20%">
+<img src="/images/About/icon-community.svg">
+</div>
+<div style="width: 80%">
+<p>
+	<span style="font-weight: bold">Themed career talk series</span> that brings together industry experts and professionals to share their perspectives and diverse career opportunities in areas such as Service, Operations, Technology and Sustainability.
+</p>
+</div>
+</div>
+
+<br>
+
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
+<div style="width: 80%">
+	<p>
+		<span style="font-weight: bold">OneAviation Showcase</span> highlighting key technology and innovation efforts driving the Air Transport Industry Transformation Map 2025. Come see the autonomous vehicles which are operating at Changi’s airside, and hear more about the exciting plans for the next generation of air traffic management operations!
+	</p>
+</div>
+	<div style="width: 20%">
+	<img src="/images/About/icon-plane.svg">
+	</div>
+</div>
