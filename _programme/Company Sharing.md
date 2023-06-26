@@ -5,7 +5,7 @@ description: Get to know some of Singapore’s aviation giants through in-servic
   professionals, as they reveal firsthand insights into the various aspects of
   work life and opportunities in the respective organisations
 ---
-### **About Company Talks**
+### **About Company Sharing**
 
 Get to know some of Singapore’s aviation giants through in-service professionals, as they reveal firsthand insights into the various aspects of work life and opportunities in the respective organisations.
 
