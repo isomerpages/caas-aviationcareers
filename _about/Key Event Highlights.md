@@ -20,7 +20,7 @@ description: ""
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 80%">
 	<p>
-		<span style="font-weight: bold">Live on-site Career Coaching</span> by the NTUC Employment and Employability Institute (e2i) and Workforce Singapore (WSG). Free sessions with career coaches to help you discover a suitable career in aviation that suits your skills sets and interests!
+		<span style="font-weight: bold">Live on-site Career Coaching</span> by Workforce Singapore (WSG). Free sessions with career coaches to help you discover a suitable career in aviation that suits your skills sets and interests!
 	</p>
 </div>
 	<div style="width: 20%">
@@ -36,7 +36,7 @@ description: ""
 </div>
 <div style="width: 80%">
 <p>
-	<span style="font-weight: bold">Pre-register or walk-in for a live interview on-site,</span> at the recruitment fair organized by the Employment and Employability Institute (e2i).
+	<span style="font-weight: bold">Pre-register or walk-in for a live interview on-site,</span> at the recruitment fair organized with the NTUC Employment and Employability Institute (e2i).
 </p>
 </div>
 </div>
