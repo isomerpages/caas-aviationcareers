@@ -4,7 +4,7 @@ permalink: /programme/exhibitors/
 description: Together with our OneAviation partners, we seek to make the world
   of aviation accessible to all.
 ---
-### **Exhibitors**
+#### **Together with our OneAviation partners, we seek to make the world of aviation accessible to all.**
 
 Together with our OneAviation partners, we seek to make the world of aviation accessible to all.  
 Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
