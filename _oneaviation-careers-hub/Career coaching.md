@@ -4,10 +4,10 @@ permalink: /oneaviation-careers-hub/career-coaching/
 description: ""
 ---
 <p style="color: #152238; font-size: 2rem;font-weight :bold;">Career Coaching</p>
-Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id duis placerat. Erat nulla diam adipiscing blandit vitae faucibus sit ut. Odio porttitor congue adipiscing lacinia eu ut. Sodales eleifend semper lectus viverra arcu at adipiscing.
+<p style="font-size:normal;">Are you just starting out or at a career crossroads?  Engage our on-site career coachers from Workforce Singapore (WSG) to discuss your professional well-being and seek guidance on charting a meaningful career path. </p>
 
-Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id duis placerat. Erat nulla diam adipiscing blandit vitae faucibus sit ut. Odio porttitor congue adipiscing lacinia eu ut. Sodales eleifend semper lectus viverra arcu at adipiscing.
+<p style="font-style:italic;">Due to limited capacity, career coaching sessions will be on a first-come-first-served basis.</p>
 
-Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id duis placerat. Erat nulla diam adipiscing blandit vitae faucibus sit ut. Odio porttitor congue adipiscing lacinia eu ut. Sodales eleifend semper lectus viverra arcu at adipiscing.
+<div style="padding: 1.5rem; width: 100%; align:center;"><img style="width:70%;" src="/images/wsgimg.png" alt="hero"></div>
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
