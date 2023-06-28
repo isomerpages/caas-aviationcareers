@@ -16,9 +16,9 @@ sections:
         - title: Perspectives & Opportunities
           description: Themed Talks & Company Talks
           url: /programme/themed-career-talks/
-        - title: Future Talents & Career Coaching
-          description: Lorem ipsum dolor sit amet con
-          url: /oneaviation-careers-hub/career-coaching/
+        - title: OneAviation Showcase
+          description: Innovation for Future Aviation
+          url: ""
         - title: Locate Us Here
           description: Lorem ipsum dolor sit amet con
           url: /join-us/
