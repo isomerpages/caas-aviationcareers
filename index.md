@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: OneAviation Careers 2023
-description: "OneAviation Careers 2023. Join Us: a career where limitless
-  possibilities await!"
+description: "OneAviation Careers 2023. Join us: together we will take Singapore
+  aviation to greater heights"
 image: /images/banner-caas-new.jpg
 permalink: /
 notification: ""
