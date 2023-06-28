@@ -13,7 +13,7 @@ description: ""
 <p style="color: #152238; font-size: 2rem;font-weight :bold;">Recruitment</p>
 <p>Jointly organised with NTUC Employment and Employability Institute (e2i), we have put together an on-site recruitement fair for job seekers to connect with aviation employers and participate in walk-in interviews.</p>
 
-<center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
+<center><a style="font-size: 0.75rem; padding: 0.75rem; padding-left: 1.5rem; padding-right: 1.5rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
 
 <p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">Supported by</p>
 
