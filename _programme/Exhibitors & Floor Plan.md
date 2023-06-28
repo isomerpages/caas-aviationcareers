@@ -5,7 +5,7 @@ description: Programme - Exhibitors & Floor Plan
 ---
 ![pending](/images/pending_layout.png)
 
-#### **Exhibitor**
+### **Exhibitor**
 
 Together with our OneAviation partners, we seek to make the world of aviation accessible to all.  
 Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
