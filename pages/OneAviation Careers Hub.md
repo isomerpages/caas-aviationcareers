@@ -15,11 +15,12 @@ description: ""
 
 <center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
 
-<p style="color: #152238; font-size: 2rem;font-weight :bold; text-align:center;padding-top: 3rem;">Supported by</p>
+<p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">Supported by</p>
 
-<div style="display: flex; flex-direction: row;margin-bottom: 4rem;">
-	<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="hero"></div>
-<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/wsgimg.png" alt="hero"></div>
+<div style="display: flex; flex-direction: row;margin-bottom: 4rem; width:65%; margin:auto">
+	<div style="display:flex; flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="e2i"></div>
+	
+<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/wsgimg.png" alt="wsg"></div>
 	</div>
 
-<style>.bp-container a:after {content: "";}#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
+<style>a::after {content: none !important;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
