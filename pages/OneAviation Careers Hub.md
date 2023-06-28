@@ -22,4 +22,4 @@ description: ""
 <div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/wsgimg.png" alt="hero"></div>
 	</div>
 
-<style>a::after {content: none !important;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
