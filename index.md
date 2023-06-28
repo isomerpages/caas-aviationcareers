@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/web banner.jpg
       key_highlights:
-        - title: Themed career talks & Company talks
-          description: Lorem ipsum dolor sit amet con
-          url: /programme/themed-talks/
+        - title: OneAviation Partners
+          description: Participating Exhibitors
+          url: /programme/exhibitors-and-floor-plan/
         - title: Exhibition & Technology Showcases
           description: Lorem ipsum dolor sit amet con
           url: programme/exhibitors-and-floor-plan/
