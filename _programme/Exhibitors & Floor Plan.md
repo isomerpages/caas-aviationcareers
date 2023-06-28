@@ -7,19 +7,7 @@ description: Programme - Exhibitors & Floor Plan
 
 ### **Exhibitor**
 
-Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id duis placerat. Erat nulla diam adipiscing blandit vitae faucibus sit ut. Odio porttitor congue adipiscing lacinia eu ut. Sodales eleifend semper lectus viverra arcu at adipiscing.
-
-Lorem ipsum dolor sit amet consectetur. Maecenas tempus id est fames hac arcu id duis placerat. Erat nulla diam adipiscing blandit vitae faucibus sit ut. Odio porttitor congue adipiscing lacinia eu ut. Sodales eleifend semper lectus viverra arcu at adipiscing.
-
-<div style="width: inherit;display: grid;gap:5%;grid-template-columns: auto auto auto auto;">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-		<img src="/images/workforce_singapore.png">
-</div>
+Together with our OneAviation partners, we seek to make the world of aviation accessible to all.  
+Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
