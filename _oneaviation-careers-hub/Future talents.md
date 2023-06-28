@@ -12,6 +12,6 @@ description: ""
 	<div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="hero"></div>
 	<div style="flex: 50%; padding-left: 1.5rem;"><p style="font-size:normal;">Jointly organised with NTUC Employment and Employability Institute (e2i), we have put together an on-site recruitement fair for job seekers to connect with aviation employers and participate in walk-in interviews.</p></div>
 	</div>
-<center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
+<center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
