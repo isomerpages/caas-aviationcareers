@@ -1,6 +1,0 @@
-collections:
-  oneaviation-careers-hub:
-    output: true
-    order:
-      - Future talents.md
-      - Career coaching.md
