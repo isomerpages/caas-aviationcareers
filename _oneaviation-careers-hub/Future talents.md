@@ -14,4 +14,4 @@ description: ""
 	</div>
 <center><a style="padding: 1rem; padding-left: 2rem; padding-right: 2rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}, a::after {content: none !important;}</style>
+<style>a::after {content: none !important;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #153821 !important;}</style>
