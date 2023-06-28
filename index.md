@@ -13,9 +13,9 @@ sections:
         - title: OneAviation Partners
           description: Participating Exhibitors
           url: /programme/exhibitors-and-floor-plan/
-        - title: Exhibition & Technology Showcases
-          description: Lorem ipsum dolor sit amet con
-          url: programme/exhibitors-and-floor-plan/
+        - title: Perspectives & Opportunities
+          description: Themed Talks & Company Talks
+          url: /programme/themed-career-talks/
         - title: Future Talents & Career Coaching
           description: Lorem ipsum dolor sit amet con
           url: /oneaviation-careers-hub/career-coaching/
