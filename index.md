@@ -19,7 +19,7 @@ sections:
         - title: OneAviation Showcase
           description: Innovation for Future Aviation
           url: ""
-        - title: Locate Us Here
-          description: Lorem ipsum dolor sit amet con
-          url: /join-us/
+        - title: Future Talents
+          description: Recruitment & Career Coaching
+          url: /oneaviation-careers-hub/
 ---
