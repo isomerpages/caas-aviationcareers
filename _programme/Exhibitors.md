@@ -10,6 +10,8 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 
 <div style="display:flex;flex-direction:column;">
 	<div>Kolom 1</div>
+	<div>Kolom 2</div>
+	<div>Kolom 3</div>
 </div>
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
