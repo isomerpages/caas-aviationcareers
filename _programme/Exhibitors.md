@@ -14,7 +14,7 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 		<ul>
 			<li>Civil Aviation Authority of Singapore (CAAS)</li>
 		</ul>
-		<h5>Airport &amp; Airlines</h5>
+		<h5><b>Airport &amp; Airlines</b></h5>
 		<ul>
 			<li>Changi Airport Group (CAG)</li>
 			<li>SATS</li>
@@ -29,7 +29,7 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 			<li>Lotte</li>
 			<li>Smart Carte</li>
 		</ul>
-		<h5>Unmanned System</h5>
+		<h5><b>Unmanned System</b></h5>
 		<ul>
 			<li>Skyports</li>
 			<li>ST Engineering Aerospace</li>
@@ -38,19 +38,19 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 		</ul>
 	</div>
 	<div class="col is-4">
-		<h5>Next Gen-ATM</h5>
+		<h5><b>Next Gen-ATM</b></h5>
 		<ul>
 			<li>Inmarsat</li>
 			<li>SAAB Singapore</li>
 		</ul>
-		<h5>Aircargo</h5>
+		<h5><b>Aircargo</b></h5>
 		<ul>
 			<li>Singapore Aircargo Agents Association (SAAA)</li>
 			<li>Cargo Community Network (CCN)</li>
 			<li>FedEx</li>
 			<li>Speedcargo</li>
 		</ul>
-		<h5>Aviation Education</h5>
+		<h5><b>Aviation Education</b></h5>
 		<ul>
 			<li>Singapore Polytechnic (SP)</li>
 			<li>Republic Polytechnic (RP)</li>
@@ -68,7 +68,7 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 			<li>Singapore University of Technology and Design (SUTD)</li>
 			<li>SkillsFuture Singapore (SSG)</li>
 		</ul>
-		<h5>Maintenance, Repair, and Operations (MRO)</h5>
+		<h5><b>Maintenance, Repair, and Operations (MRO)</b></h5>
 		<ul>
 			<li>Thales</li>
 			<li>Bombardier</li>
@@ -76,7 +76,7 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 			<li>Pratt and Whitney</li>
 			<li>Singapore Aero Engine Services (SAESL)</li>
 		</ul>
-		<h5>Others</h5>
+		<h5><b>Others</b></h5>
 		<ul>
 			<li>National Trades Union Congress (NTUC)</li>
 			<li>Association of Aerospace Industries (Singapore) (AAIS)</li>
