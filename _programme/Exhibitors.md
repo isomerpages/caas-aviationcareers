@@ -10,9 +10,10 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 
 <div class="row">
 	<div class="col is-4">
-	
-###### Regulators
-* Civil Aviation Authority of Singapore (CAAS)
+		<h5>Regulators</h5>
+		<ul>
+			<li>Civil Aviation Authority of Singapore (CAAS)</li>
+		</ul>
 		
 ###### Airport &amp; Airlines&nbsp;
 * Changi Airport Group (CAG)
