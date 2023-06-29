@@ -40,6 +40,7 @@ You may not use the account of another person without that person’s express wr
 If you have reason to believe that your account is no longer secure (e.g., loss, theft or unauthorized disclosure or use of your Registration Data or computer or mobile device used to access the Service), you must promptly change the affected Registration Data and notify us via the CAAS [Feedback and Enquiry page](https://www.ifaq.gov.sg/caas/apps/feedback.aspx?CATEGORY_ID=FS_116).
 
 Your Registration Data is subject to our Privacy Statement, which may be found [here.](https://www.caas.gov.sg/privacy-statement)  
+
 #### Disclaimer of Representations and Warranties
 
 THE CONTENT (INCLUDING THIRD PARTY INFORMATION, PRODUCTS AND/OR SERVICES) OF OR ACCESSIBLE THROUGH THIS CAAS WEBSITE AND ALL OTHER CAAS WEBSITES ARE PROVIDED:
