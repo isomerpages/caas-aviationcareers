@@ -6,7 +6,10 @@ description: Together with our OneAviation partners, we seek to make the world
 ---
 #### **Together with our OneAviation partners, we seek to make the world of aviation accessible to all.**
 
-Together with our OneAviation partners, we seek to make the world of aviation accessible to all.  
 Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
+
+<div style="display:flex;flex-direction:column;">
+	<div>Kolom 1</div>
+</div>
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
