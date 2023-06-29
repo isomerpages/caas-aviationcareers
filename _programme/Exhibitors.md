@@ -84,4 +84,4 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 	</div>
 </div>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;#main-content h5{font-weight: bold;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;#main-content h5 {font-weight: bold;}</style>
