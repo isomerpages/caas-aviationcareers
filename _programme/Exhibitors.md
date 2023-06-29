@@ -10,7 +10,7 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 
 <div class="row">
 	<div class="col is-4">
-		<h5>Regulators</h5>
+		<h5><b>Regulators</b></h5>
 		<ul>
 			<li>Civil Aviation Authority of Singapore (CAAS)</li>
 		</ul>
