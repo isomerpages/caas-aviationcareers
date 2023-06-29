@@ -29,50 +29,58 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 			<li>Lotte</li>
 			<li>Smart Carte</li>
 		</ul>
-		
-###### Unmanned System
-* Skyports
-* ST Engineering Aerospace
-* Garuda Robotics
-* Heron Technology
+		<h5>Unmanned System</h5>
+		<ul>
+			<li>Skyports</li>
+			<li>ST Engineering Aerospace</li>
+			<li>Garuda Robotics</li>
+			<li>Heron Technology</li>
+		</ul>
 	</div>
 	<div class="col is-4">
-		
-###### Next Gen-ATM
-* Inmarsat
-* SAAB Singapore
-		
-###### Aircargo&nbsp;
-* Singapore Aircargo Agents Association (SAAA)
-* Cargo Community Network (CCN)
-* FedEx
-* Speedcargo
-		
-###### Aviation Education&nbsp;
-* Singapore Polytechnic (SP)
-* Republic Polytechnic (RP)
-* Temasek Polytechnic (TP)
-* Institute of Technical Education (ITE) College East
-* Nanyang Technological University (NTU) School of Mechanical and Aerospace Engineering
-* Singapore Scout Association (SSA)
-* National Youth Council (NYC)
-* Embry Riddle Aeronautical University Asia (ERAU)
+		<h5>Next Gen-ATM</h5>
+		<ul>
+			<li>Inmarsat</li>
+			<li>SAAB Singapore</li>
+		</ul>
+		<h5>Aircargo</h5>
+		<ul>
+			<li>Singapore Aircargo Agents Association (SAAA)</li>
+			<li>Cargo Community Network (CCN)</li>
+			<li>FedEx</li>
+			<li>Speedcargo</li>
+		</ul>
+		<h5>Aviation Education</h5>
+		<ul>
+			<li>Singapore Polytechnic (SP)</li>
+			<li>Republic Polytechnic (RP)</li>
+			<li>Temasek Polytechnic (TP)</li>
+			<li>Institute of Technical Education (ITE) College East</li>
+			<li>Nanyang Technological University (NTU) School of Mechanical and Aerospace Engineering</li>
+			<li>Singapore Scout Association (SSA)</li>
+			<li>National Youth Council (NYC)</li>
+			<li>Embry Riddle Aeronautical University Asia (ERAU)</li>
+		</ul>
 	</div>
 	<div class="col is-4">
-* Singapore Institute of Technology (SIT)
-* Singapore University of Technology and Design (SUTD)
-* SkillsFuture Singapore (SSG)
-		
-###### Maintenance, Repair, and Operations (MRO)&nbsp;
-* Thales
-* Bombardier
-* Boeing
-* Pratt and Whitney
-* Singapore Aero Engine Services (SAESL)
-		
-###### Others&nbsp;
-* National Trades Union Congress (NTUC)
-* Association of Aerospace Industries (Singapore) (AAIS)
+		<ul>
+			<li>Singapore Institute of Technology (SIT)</li>
+			<li>Singapore University of Technology and Design (SUTD)</li>
+			<li>SkillsFuture Singapore (SSG)</li>
+		</ul>
+		<h5>Maintenance, Repair, and Operations (MRO)</h5>
+		<ul>
+			<li>Thales</li>
+			<li>Bombardier</li>
+			<li>Boeing</li>
+			<li>Pratt and Whitney</li>
+			<li>Singapore Aero Engine Services (SAESL)</li>
+		</ul>
+		<h5>Others</h5>
+		<ul>
+			<li>National Trades Union Congress (NTUC)</li>
+			<li>Association of Aerospace Industries (Singapore) (AAIS)</li>
+		</ul>
 	</div>
 </div>
 
