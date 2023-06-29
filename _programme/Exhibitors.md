@@ -35,7 +35,8 @@ Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
 * Heron Technology
 	</div>
 	<div class="col is-4">
-###### Next Gen-ATM&nbsp;
+		
+###### Next Gen-ATM
 * Inmarsat
 * SAAB Singapore
 		
