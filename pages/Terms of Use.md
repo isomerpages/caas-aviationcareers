@@ -31,7 +31,7 @@ You shall not do anything which could interfere with this site’s accessibility
 
 CAAS reserves the right to deny to anyone at any time access to this or any other CAAS Website without notice or need to assign any reason whatsoever.   
   
-**Registration Data**
+#### Registration Data
 
 Some features of this CAAS Website may require you to register and set up an account (including setting up a user ID and password), and/or supply your personal data. All information you provide to register and open an account is “Registration Data”. Registration Data includes information such as user ID, password, authentication information, and any other personal data supplied. You are solely responsible for maintaining the confidentiality and accuracy of Registration Data, and for any and all activity that occurs under your account as a result of your failing to keep your Registration Data secure and confidential. You represent that all Registration Data provided by you is complete, accurate and up-to-date. If any of your Registration Data changes, you must immediately update it. CAAS may, if it suspects that any of the Registration Data provided is untrue, inaccurate, incomplete or outdated, suspend or terminate your access and use of this CAAS Website, including any services provided under this CAAS Website, and refuse you any and all current or future use of this CAAS Website and its services. CAAS may, in its sole discretion, refuse to grant you a user ID that impersonates someone else, is protected by trademark or other proprietary right law, or is offensive.
 
