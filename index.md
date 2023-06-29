@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: OneAviation Partners
           description: Participating Exhibitors
-          url: /programme/exhibitors-and-floor-plan/
+          url: /programme/exhibitors/
         - title: Perspectives & Opportunities
           description: Themed Talks & Company Talks
           url: /programme/themed-career-talks/
         - title: OneAviation Showcase
           description: Innovation for Future Aviation
-          url: ""
+          url: /programme/exhibitors/
         - title: Future Talents
           description: Recruitment & Career Coaching
           url: /oneaviation-careers-hub/
