@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-### CIVIL AVIATION AUTHORITY OF SINGAPORE PRIVACY STATEMENT
+### **CIVIL AVIATION AUTHORITY OF SINGAPORE PRIVACY STATEMENT**
 
 This is a Civil Aviation Authority of Singapore digital service. Thank you for examining our privacy statement.
 
