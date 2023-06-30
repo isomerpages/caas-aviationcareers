@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Exhibitors.md
-      - Themed Career Talks.md
+      - Themed Talks.md
       - Company Sharing.md
