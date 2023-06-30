@@ -15,7 +15,7 @@ sections:
           url: /programme/exhibitors/
         - title: Perspectives & Opportunities
           description: Themed Talks & Company Talks
-          url: /programme/themed-career-talks/
+          url: /programme/themed-talks/
         - title: OneAviation Showcase
           description: Innovation for Future Aviation
           url: ""
