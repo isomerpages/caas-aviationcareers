@@ -26,7 +26,7 @@ description: Join Us
 	<br>
 	4 - 5 August 2023
 	<br>
-	10.00 AM to 06.00 PM
+	9.30 AM to 05.30 PM
 </p>
 </div>
 </div>
