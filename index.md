@@ -18,7 +18,7 @@ sections:
           url: /programme/themed-career-talks/
         - title: OneAviation Showcase
           description: Innovation for Future Aviation
-          url: /programme/exhibitors/
+          url: ""
         - title: Future Talents
           description: Recruitment & Career Coaching
           url: /oneaviation-careers-hub/
