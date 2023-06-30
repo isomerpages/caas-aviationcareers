@@ -4,82 +4,75 @@ permalink: /programme/exhibitors/
 description: Together with our OneAviation partners, we seek to make the world
   of aviation accessible to all.
 ---
-#### **Together with our OneAviation partners, we seek to make the world of aviation accessible to all.**
+#### **Together with our OneAviation partners, we seek to make the world of aviation accessible to you**
 
-Plan your visit to OneAviation Careers 2023, check out the exhibitors here.
+Plan your visit to OAC 2023, check out the exhibitors here.
 
 <div class="row">
 	<div class="col is-4">
-		<h5><b>Regulators</b></h5>
+		<h5><b>Government and Supporting Services</b></h5>
 		<ul>
-			<li>Civil Aviation Authority of Singapore (CAAS)</li>
+			<li>Civil Aviation Authority of Singapore</li>
 		</ul>
 		<h5><b>Airport &amp; Airlines</b></h5>
 		<ul>
-			<li>Changi Airport Group (CAG)</li>
+			<li>Changi Airport Group</li>
 			<li>SATS</li>
 			<li>Dnata Singapore</li>
 			<li>SIA Engineering Company</li>
-			<li>Singapore Aero Support Services (SASS)</li>
-			<li>Singapore Airlines (SIA)</li>
+			<li>Singapore Aero Support Services</li>
+			<li>Singapore Airlines</li>
 			<li>Scoot</li>
 			<li>Jetstar Asia</li>
-			<li>Immigration and Checkpoints Authority (ICA)</li>
+			<li>Immigration and Checkpoints Authority</li>
 			<li>Certis Cisco Aviation Security</li>
 			<li>Lotte</li>
-			<li>Smart Carte</li>
 		</ul>
 		<h5><b>Unmanned System</b></h5>
 		<ul>
 			<li>Skyports</li>
-			<li>ST Engineering Aerospace</li>
 			<li>Garuda Robotics</li>
-			<li>Heron Technology</li>
 		</ul>
 	</div>
 	<div class="col is-4">
-		<h5><b>Next Gen-ATM</b></h5>
+		<h5><b>Next Generation Air Traffic Management</b></h5>
 		<ul>
 			<li>Inmarsat</li>
 			<li>SAAB Singapore</li>
 		</ul>
 		<h5><b>Aircargo</b></h5>
 		<ul>
-			<li>Singapore Aircargo Agents Association (SAAA)</li>
-			<li>Cargo Community Network (CCN)</li>
+			<li>Singapore Aircargo Agents Association</li>
+			<li>Cargo Community Network</li>
 			<li>FedEx</li>
 			<li>Speedcargo</li>
 		</ul>
-		<h5><b>Aviation Education</b></h5>
+		<h5><b>Aviation Education and Outreach</b></h5>
 		<ul>
-			<li>Singapore Polytechnic (SP)</li>
-			<li>Republic Polytechnic (RP)</li>
-			<li>Temasek Polytechnic (TP)</li>
-			<li>Institute of Technical Education (ITE) College East</li>
-			<li>Nanyang Technological University (NTU) School of Mechanical and Aerospace Engineering</li>
-			<li>Singapore Scout Association (SSA)</li>
-			<li>National Youth Council (NYC)</li>
-			<li>Embry Riddle Aeronautical University Asia (ERAU)</li>
+			<li>Singapore Institute of Technology</li><li>Singapore University of Technology and Design</li>
+			<li>Nanyang Technological University School of Mechanical and Aerospace Engineering</li>
+			<li>Embry Riddle Aeronautical University Asia</li>
+			<li>Republic Polytechnic</li>
+			<li>Temasek Polytechnic</li>
+			<li>Singapore Polytechnic</li>
+			<li>Institute of Technical Education College East</li>
 		</ul>
 	</div>
 	<div class="col is-4">
 		<ul>
-			<li>Singapore Institute of Technology (SIT)</li>
-			<li>Singapore University of Technology and Design (SUTD)</li>
-			<li>SkillsFuture Singapore (SSG)</li>
+			<li>Singapore Scout Association</li>
+			<li>National Youth Council</li>
+			<li>SkillsFuture Singapore</li>
 		</ul>
-		<h5><b>Maintenance, Repair, and Operations (MRO)</b></h5>
+		<h5><b>Aerospace</b></h5>
 		<ul>
 			<li>Thales</li>
 			<li>Bombardier</li>
 			<li>Boeing</li>
+			<li>ST Engineering Aerospace</li>
 			<li>Pratt and Whitney</li>
-			<li>Singapore Aero Engine Services (SAESL)</li>
-		</ul>
-		<h5><b>Others</b></h5>
-		<ul>
-			<li>National Trades Union Congress (NTUC)</li>
-			<li>Association of Aerospace Industries (Singapore) (AAIS)</li>
+			<li>Singapore Aero Engine Services</li>
+			<li>Association of Aerospace Industries Singapore</li>
 		</ul>
 	</div>
 </div>
