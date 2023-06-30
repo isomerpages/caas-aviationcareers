@@ -15,7 +15,7 @@ description: ""
 
 <center><a style="font-size: 0.75rem; padding: 0.75rem; padding-left: 1.5rem; padding-right: 1.5rem; background: #152238; color: white;border-radius: 0; text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://event.e2i.com.sg/web/OAC2023">REGISTER NOW</a></center>
 
-<p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">Supported by</p>
+<p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">In Partnership with</p>
 
 <div style="display: flex; flex-direction: row;margin-bottom: 4rem; width:80%; margin:auto;gap:10%;">
 	<div style="flex: 1;"><img src="/images/e2iimg.png" alt="e2i"></div>
