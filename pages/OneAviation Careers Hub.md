@@ -7,8 +7,8 @@ description: ""
 <p style="font-size:normal;">The aviation sector is complex and diverse with limitless opportunities for job seekers and we understand that this can feel overwhelming. Together with our partners e2i, NTUC and WSG, we have put together an onsite recruitment fair and career coaching zone to provide job seekers with a dedicated platform to connect with aviation employers, participate in walk-in interviews and engage our professional career coachers to chart your career path and prepare for the opportunities that lie ahead.</p>
 
 <p style="color: #152238; font-size: 2rem;font-weight :bold;">Career Coaching</p>
-<p style="font-size:normal;">Are you just starting out or at a career crossroads?  Engage our on-site career coachers from Workforce Singapore (WSG) to discuss your professional well-being and seek guidance on charting a meaningful career path. </p>
-<p style="font-style:italic;">Due to limited capacity, career coaching sessions will be on a first-come-first-served basis.</p>
+<p style="font-size:normal;">Are you just starting out or at a career crossroads?  Engage our on-site career coachers from Workforce Singapore (WSG) to discuss your professional well-being and to chart a meaningful career path. </p>
+<p style="font-style:italic;">Due to limited capacity, coaching sessions will be on a first-come-first-served basis.</p>
 
 <p style="color: #152238; font-size: 2rem;font-weight :bold;">Recruitment</p>
 <p>Jointly organised with NTUC Employment and Employability Institute (e2i), we have put together an on-site recruitement fair for job seekers to connect with aviation employers and participate in walk-in interviews.</p>
