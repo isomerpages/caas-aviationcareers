@@ -13,6 +13,8 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 		<h5><b>Government and Supporting Services</b></h5>
 		<ul>
 			<li>Civil Aviation Authority of Singapore</li>
+			<li>National Trades Union Congress</li>
+			<li>Women in Aviation</li>
 		</ul>
 		<h5><b>Airport &amp; Airlines</b></h5>
 		<ul>
