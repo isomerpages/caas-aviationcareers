@@ -3,7 +3,7 @@ title: Event Highlights
 permalink: /about/event-highlights/
 description: ""
 ---
-# Key Event Highlights
+# Event Highlights
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 20%">
 <img src="/images/About/icon-booth.svg">
