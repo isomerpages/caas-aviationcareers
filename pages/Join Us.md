@@ -7,7 +7,7 @@ description: Join Us
 <div style="width: 50%">
 	<h6 style="font-weight: bold; font-size: 32px">Venue Address</h6>
 	<p>Suntec Singapore Convention &amp; Exhibition Centre
-		Level 4, Hall 404 – 405 
+		Level 4, Hall 404 &amp; 405 
 		<br><br>
 		1 Raffles Boulevard, Suntec City
 		Singapore 039593</p>
