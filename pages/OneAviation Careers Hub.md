@@ -17,7 +17,7 @@ description: ""
 
 <p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">Supported by</p>
 
-<div style="display: flex; flex-direction: row;margin-bottom: 4rem; width:65%; margin:auto">
+<div style="display: flex; flex-direction: row;margin-bottom: 4rem; width:75%; margin:auto;gap:15%;">
 	<div style="display:flex; flex: 50%; padding-right: 1.5rem;"><img src="/images/e2iimg.png" alt="e2i"></div>
 	
 <div style="flex: 50%; padding-right: 1.5rem;"><img src="/images/wsgimg.png" alt="wsg"></div>
