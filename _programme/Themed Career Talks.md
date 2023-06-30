@@ -10,7 +10,8 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 
 ### **Themed Career Talks – Topics**
 
-##### **Airside and Cargo Operations - *Like clockwork: The World below the Wing***
+<p>1:00pm to 2:00pm</p>
+<h4 style="margin-top:-20px;"><b>Airside and Cargo Operations - <i>Like clockwork: The World below the Wing</i></b></h4>
 
 Curious about the buzz that goes on below the wing, as you look out of your aircraft window? Airside operations comprise complex and overlapping processes, which require strong command and control, and close coordination among the different airport stakeholders.  
   
