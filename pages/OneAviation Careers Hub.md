@@ -3,7 +3,7 @@ title: OneAviation Careers Hub
 permalink: /oneaviation-careers-hub/
 description: ""
 ---
-<p style="color: #152238; font-size: 2rem;font-weight :bold;">About OneAviation Careers Hub zone</p>
+<p style="color: #152238; font-size: 2rem;font-weight :bold;">About OneAviation Careers Hub</p>
 <p style="font-size:normal;">The aviation sector is complex and diverse with limitless opportunities for job seekers and we understand that this can feel overwhelming. Together with our partners e2i, NTUC and WSG, we have put together an onsite recruitment fair and career coaching zone to provide job seekers with a dedicated platform to connect with aviation employers, participate in walk-in interviews and engage our professional career coachers to chart your career path and prepare for the opportunities that lie ahead.</p>
 
 <p style="color: #152238; font-size: 2rem;font-weight :bold;">Career Coaching</p>
