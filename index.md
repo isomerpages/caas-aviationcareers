@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/web banner.jpg
+      background: /images/banner_center_text.jpg
       key_highlights:
         - title: OneAviation Partners
           description: Participating Exhibitors
