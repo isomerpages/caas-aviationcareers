@@ -52,14 +52,14 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Singapore Institute of Technology</li><li>Singapore University of Technology and Design</li>
 			<li>Nanyang Technological University School of Mechanical and Aerospace Engineering</li>
 			<li>Embry Riddle Aeronautical University Asia</li>
-			<li>Republic Polytechnic</li>
-			<li>Temasek Polytechnic</li>
-			<li>Singapore Polytechnic</li>
-			<li>Institute of Technical Education College East</li>
 		</ul>
 	</div>
 	<div class="col is-4">
 		<ul>
+			<li>Republic Polytechnic</li>
+			<li>Temasek Polytechnic</li>
+			<li>Singapore Polytechnic</li>
+			<li>Institute of Technical Education College East</li>
 			<li>Singapore Scout Association</li>
 			<li>National Youth Council</li>
 			<li>SkillsFuture Singapore</li>
