@@ -11,4 +11,18 @@ Join us at OneAviation Careers at Suntec City Convention Centre on 4 and 5 Augus
 	
 Discover the evolving world of aviation, where limitless possibilities await!
 
-<p style="text-align:center;"><b>Organised by</b></p>
+<p style="text-align:center;font-weight: bold;">Organised by</p>
+<img alt="Civil Aviation Authority of Singapore" style="text-align:center;width: 30%;" src="/images/caas-logo.png">
+
+<p style="text-align:center;font-weight: bold;">In partnership with</p>
+<div style="display:flex;flex-direction:row; gap: 8%;">
+	<div style="flex:1;">
+		<img alt="ue2i" src="/images/e2iimg.png">
+	</div>
+	<div style="flex:1;">
+	<img alt="NTUC" src="/images/ntuc-logo.png">
+	</div>
+	<div style="flex:1;">
+	<img alt="WSG" src="/images/wsgimg.png">
+	</div>
+</div>
