@@ -18,7 +18,7 @@ description: ""
 <p style="color: #152238; font-size: 1.5rem;font-weight :bold; text-align:center;padding-top: 3rem;">In Partnership with</p>
 
 <div style="display: flex; flex-direction: row;margin-bottom: 4rem; width:80%; margin:auto;gap:10%;">
-	<div style="flex: 1;"><img src="/images/e2iimg.png" alt="e2i"></div>
+	<div style="flex: 1.5;"><img src="/images/e2iimg.png" alt="e2i"></div>
 	<div style="flex: 1;"><img src="/images/ntuc-logo.png" alt="e2i"></div>
 <div style="flex: 1;"><img src="/images/wsgimg.png" alt="wsg"></div>
 	</div>
