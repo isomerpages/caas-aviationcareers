@@ -34,8 +34,6 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Inmarsat</li>
 			<li>SAAB Singapore</li>
 		</ul>
-	</div>
-	<div class="col is-4">
 		<h5><b>Aircargo</b></h5>
 		<ul>
 			<li>Singapore Aircargo Agents Association</li>
@@ -43,6 +41,8 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>FedEx</li>
 			<li>Speedcargo</li>
 		</ul>
+	</div>
+	<div class="col is-4">
 		<h5><b>Aviation Education and Outreach</b></h5>
 		<ul>
 			<li>Singapore Institute of Technology</li><li>Singapore University of Technology and Design</li>
@@ -51,15 +51,13 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Republic Polytechnic</li>
 			<li>Temasek Polytechnic</li>
 			<li>Singapore Polytechnic</li>
-		</ul>
-	</div>
-	<div class="col is-4">
-		<ul>
 			<li>Institute of Technical Education College East</li>
 			<li>Singapore Scout Association</li>
 			<li>National Youth Council</li>
 			<li>SkillsFuture Singapore</li>
 		</ul>
+	</div>
+	<div class="col is-4">
 		<h5><b>Aerospace</b></h5>
 		<ul>
 			<li>Thales</li>
