@@ -10,12 +10,6 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 
 <div class="row">
 	<div class="col is-4">
-		<h5><b>Government and Supporting Services</b></h5>
-		<ul>
-			<li>Civil Aviation Authority of Singapore</li>
-			<li>National Trades Union Congress</li>
-			<li>Women in Aviation</li>
-		</ul>
 		<h5><b>Airport &amp; Airlines</b></h5>
 		<ul>
 			<li>Changi Airport Group</li>
@@ -35,13 +29,13 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Skyports</li>
 			<li>Garuda Robotics</li>
 		</ul>
-	</div>
-	<div class="col is-4">
 		<h5><b>Next Generation Air Traffic Management</b></h5>
 		<ul>
 			<li>Inmarsat</li>
 			<li>SAAB Singapore</li>
 		</ul>
+	</div>
+	<div class="col is-4">
 		<h5><b>Aircargo</b></h5>
 		<ul>
 			<li>Singapore Aircargo Agents Association</li>
@@ -56,11 +50,11 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Embry Riddle Aeronautical University Asia</li>
 			<li>Republic Polytechnic</li>
 			<li>Temasek Polytechnic</li>
+			<li>Singapore Polytechnic</li>
 		</ul>
 	</div>
 	<div class="col is-4">
 		<ul>
-			<li>Singapore Polytechnic</li>
 			<li>Institute of Technical Education College East</li>
 			<li>Singapore Scout Association</li>
 			<li>National Youth Council</li>
@@ -75,6 +69,12 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Pratt and Whitney</li>
 			<li>Singapore Aero Engine Services</li>
 			<li>Association of Aerospace Industries Singapore</li>
+		</ul>
+		<h5><b>Government and Supporting Services</b></h5>
+		<ul>
+			<li>Civil Aviation Authority of Singapore</li>
+			<li>National Trades Union Congress</li>
+			<li>Women in Aviation</li>
 		</ul>
 	</div>
 </div>
