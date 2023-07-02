@@ -29,19 +29,19 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Skyports</li>
 			<li>Garuda Robotics</li>
 		</ul>
+		<h5><b>Next Generation Air Traffic Management</b></h5>
+		<ul>
+			<li>Inmarsat</li>
+			<li>SAAB Singapore</li>
+		</ul>
+	</div>
+	<div class="col is-4">
 		<h5><b>Aircargo</b></h5>
 		<ul>
 			<li>Singapore Aircargo Agents Association</li>
 			<li>Cargo Community Network</li>
 			<li>FedEx</li>
 			<li>Speedcargo</li>
-		</ul>
-	</div>
-	<div class="col is-4">
-		<h5><b>Next Generation Air Traffic Management</b></h5>
-		<ul>
-			<li>Inmarsat</li>
-			<li>SAAB Singapore</li>
 		</ul>
 		<h5><b>Aviation Education and Outreach</b></h5>
 		<ul>
