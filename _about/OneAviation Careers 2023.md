@@ -15,7 +15,7 @@ Discover the evolving world of aviation, where limitless possibilities await!
 <img alt="Civil Aviation Authority of Singapore" style="text-align:center;width: 23%;" src="/images/caas-logo.png">
 
 <p style="text-align:center;font-weight: bold;">In partnership with</p>
-<div style="display:flex;flex-direction:row; gap: 8%;width:80%; margin:auto;">
+<div style="display:flex;flex-direction:row; gap: 8%;width:80%; margin:auto;align-items: center;">
 	<div style="flex:1.5;">
 		<img alt="ue2i" src="/images/e2iimg.png">
 	</div>
