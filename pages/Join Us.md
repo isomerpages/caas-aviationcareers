@@ -19,7 +19,7 @@ description: Join Us
 		</div>
 		</a>
 </div>
-<div class="col is-6">
+<div class="col is-4">
 		<h6 style="font-weight: bold; font-size: 32px">Date and Time</h6>
 <p>
 	Friday &amp; Saturday
