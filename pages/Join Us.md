@@ -3,8 +3,8 @@ title: Join Us
 permalink: /join-us/
 description: Join Us
 ---
-<div class="row">
-<div style="col is-6">
+<div style="justify-content: space-between;" class="row">
+<div class="col is-6">
 	<h6 style="font-weight: bold; font-size: 32px">Venue Address</h6>
 	<p>Suntec Singapore Convention &amp; Exhibition Centre
 		Level 4, Hall 404 &amp; 405 
