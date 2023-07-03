@@ -1,0 +1,8 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Exhibitors.md
+      - Themed Talks.md
+      - Company Talks.md
+      - OneAviation Showcase.md
