@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Themed Talks/Themed Talks.md
       - Themed Talks/Speakers.md
       - Themed Talks/.keep
       - Exhibitors.md
