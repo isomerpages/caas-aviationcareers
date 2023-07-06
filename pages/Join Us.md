@@ -31,4 +31,4 @@ description: Join Us
 </div>
 </div>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #241538 !important;}</style>
+<style>#main-content a::after {content: none !important;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #241538 !important;}</style>
