@@ -2,9 +2,9 @@ collections:
   programme:
     output: true
     order:
+      - Exhibitors.md
+      - Themed Talks/.keep
       - Themed Talks/Overview.md
       - Themed Talks/Speakers.md
-      - Themed Talks/.keep
-      - Exhibitors.md
       - Company Talks.md
       - OneAviation Showcase.md
