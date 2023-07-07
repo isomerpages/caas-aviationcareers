@@ -12,7 +12,7 @@ third_nav_title: Themed Talks
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
 <div style="display:flex;">
 	<div style="flex:1;">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg" class="circle">
 		<h4>Eileen Oh</h4>
 		<p>General Manager, Quality Service Management</p>
 		<p>Airport Operations Service</p>
@@ -27,3 +27,6 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
+
+
+<style>.circle{clip-path: circle();}</style>
