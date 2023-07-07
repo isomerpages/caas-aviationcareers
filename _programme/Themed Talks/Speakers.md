@@ -12,34 +12,41 @@ third_nav_title: Themed Talks
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
 <div class="row speaker-row">
 	<div class="speaker col is-4">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
-		<p class="name">Eileen Oh</p>
-		<p>General Manager, Quality Service Management, Airport Operations Service</p>
-		<p class="org">CAG</p>
+		<img alt="Daniel Ng" src="/images/Speakers/daniel-ng.jpg">
+		<p class="name">Daniel Ng</p>
+		<p>Chief Sustainability Officer</p>
+		<p>[Moderator]</p>
+		<p class="org">CAAS</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Sharifah Azzah" src="/images/Speakers/sharifah-azzah.jpg">
-		<p class="name">Sharifah Azzah</p>
-		<p>Senior Manager, Quality &amp; Premium Services</p>
+		<img alt="Jacqueline Lam" src="/images/Speakers/jacqueline-lam.jpg">
+		<p class="name">Jacqueline Lam</p>
+		<p>Regional Lead for Sustainability</p>
+		<p class="org">Boeing</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Chris Lee" src="/images/Speakers/chris-lee.jpg">
+		<p class="name">Chris Lee</p>
+		<p>Ecosystem Architect &amp; Digital Innovation Developer</p>
+		<p class="org">Thales</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Sami Jauhiainen" src="/images/Speakers/sami-jauhiainen.jpg">
+		<p class="name">Sami Jauhiainen</p>
+		<p>Vice-President, APAC</p>
+		<p class="org">Neste</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Spencer Low" src="/images/Speakers/spencer-low.jpg">
+		<p class="name">Spencer Low</p>
+		<p>Chief Sustainability Officer</p>
 		<p class="org">SATS</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Wu Weiren" src="/images/Speakers/wu-weiren.jpg">
-		<p class="name">Wu Weiren</p>
-		<p>Senior Manager, Certis Aviation Security</p>
-		<p class="org">Certis Cisco</p>
-	</div>
-	<div class="speaker col is-4">
-		<img alt="Teo Seng Choke" src="/images/Speakers/seng-choke.jpg">
-		<p class="name">Teo Seng Choke</p>
-		<p>Senior Manager SIN Hub</p>
+		<img alt="Stephen Leung" src="/images/Speakers/stephen-leung.jpg">
+		<p class="name">Stephen Leung</p>
+		<p>Manager Sustainability</p>
 		<p class="org">SIA</p>
-	</div>
-	<div class="speaker col is-4">
-		<img alt="Tan Check Seng, Isaac" src="/images/Speakers/tan-check-seng-isaac.jpg">
-		<p class="name">Tan Check Seng, Isaac</p>
-		<p>Senior Assistant Commander (Airport, Ground&nbsp;Operations)</p>
-		<p class="org">ICA</p>
 	</div>
 </div>
 
@@ -55,6 +62,7 @@ third_nav_title: Themed Talks
 		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
 		<p class="name">Eileen Oh</p>
 		<p>General Manager, Quality Service Management, Airport Operations Service</p>
+		<p>[Moderator]</p>
 		<p class="org">CAG</p>
 	</div>
 	<div class="speaker col is-4">
@@ -78,7 +86,7 @@ third_nav_title: Themed Talks
 	<div class="speaker col is-4">
 		<img alt="Tan Check Seng, Isaac" src="/images/Speakers/tan-check-seng-isaac.jpg">
 		<p class="name">Tan Check Seng, Isaac</p>
-		<p>Senior Assistant Commander (Airport, Ground&nbsp;Operations)</p>
+		<p>Senior Assistant Commander (Airport, Ground Operations)</p>
 		<p class="org">ICA</p>
 	</div>
 </div>
