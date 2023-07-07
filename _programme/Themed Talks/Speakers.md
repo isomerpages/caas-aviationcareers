@@ -18,25 +18,25 @@ third_nav_title: Themed Talks
 		<p class="org">CAG</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<img alt="Sharifah Azzah" src="/images/Speakers/sharifah-azzah.jpg">
 		<p class="name">Sharifah Azzah</p>
 		<p>Senior Manager, Quality &amp; Premium Services</p>
 		<p class="org">SATS</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
-		<p class="name">Wu&nbsp;Weiren</p>
-		<p>Senior Manager, Certis&nbsp;Aviation Security</p>
+		<img alt="Wu Weiren" src="/images/Speakers/wu-weiren.jpg">
+		<p class="name">Wu Weiren</p>
+		<p>Senior Manager, Certis Aviation Security</p>
 		<p class="org">Certis Cisco</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<img alt="Teo Seng Choke" src="/images/Speakers/seng-choke.jpg">
 		<p class="name">Teo Seng Choke</p>
 		<p>Senior Manager SIN Hub</p>
 		<p class="org">SIA</p>
 	</div>
 	<div class="speaker col is-4">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<img alt="Tan Check Seng, Isaac" src="/images/Speakers/tan-check-seng-isaac.jpg">
 		<p class="name">Tan Check Seng, Isaac</p>
 		<p>Senior Assistant Commander (Airport, Ground&nbsp;Operations)</p>
 		<p class="org">ICA</p>
@@ -52,4 +52,4 @@ third_nav_title: Themed Talks
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 
 
-<style>.speaker-row{ align-items: flex-start; } .speaker{padding:10px;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;}</style>
+<style>.speaker-row{ align-items: flex-start; margin-top: 2rem; } .speaker{padding:10px;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;}</style>
