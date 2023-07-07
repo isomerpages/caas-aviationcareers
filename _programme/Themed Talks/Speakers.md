@@ -10,14 +10,25 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
-<div style="display:flex;">
-	<div style="flex:1;">
-		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg" class="circle">
+<div class="row">
+	<div class="speaker col is-4">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
 		<h4>Eileen Oh</h4>
 		<p>General Manager, Quality Service Management</p>
-		<p>Airport Operations Service</p>
+		<p class="org">Airport Operations Service</p>
 	</div>
-	<div style="flex:1;">b</div>
+	<div class="speaker col is-4">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<h4>Eileen Oh</h4>
+		<p>General Manager, Quality Service Management</p>
+		<p class="org">Airport Operations Service</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
+		<h4>Eileen Oh</h4>
+		<p>General Manager, Quality Service Management</p>
+		<p class="org">Airport Operations Service</p>
+	</div>
 </div>
 
 <hr>
@@ -29,4 +40,4 @@ third_nav_title: Themed Talks
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 
 
-<style>.circle{clip-path: circle();}</style>
+<style>.speaker img{clip-path: circle();} .speaker{background: red;display:flex;flex-direction:column;align-items: center;}</style>
