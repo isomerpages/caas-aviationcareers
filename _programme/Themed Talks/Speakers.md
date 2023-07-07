@@ -40,4 +40,4 @@ third_nav_title: Themed Talks
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 
 
-<style>.speaker-row{ align-items: space-between } .speaker img{clip-path: circle();} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;} .speaker .org, .speaker .name{font-weight:bold;}</style>
+<style>.speaker-row{ padding: 20px; } .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.2rem;} .speaker .org, .speaker .name{font-weight:bold;}</style>
