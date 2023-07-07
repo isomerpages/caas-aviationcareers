@@ -10,7 +10,7 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
-<div class="row speaker-row">
+<div style="margin-top: 2rem;" class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Daniel Ng" src="/images/Speakers/daniel-ng.jpg">
 		<p class="name">Daniel Ng</p>
@@ -30,6 +30,8 @@ third_nav_title: Themed Talks
 		<p>Ecosystem Architect &amp; Digital Innovation Developer</p>
 		<p class="org">Thales</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Sami Jauhiainen" src="/images/Speakers/sami-jauhiainen.jpg">
 		<p class="name">Sami Jauhiainen</p>
@@ -57,7 +59,7 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
-<div class="row speaker-row">
+<div style="margin-top: 2rem;" class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
 		<p class="name">Eileen Oh</p>
@@ -77,6 +79,8 @@ third_nav_title: Themed Talks
 		<p>Senior Manager, Certis Aviation Security</p>
 		<p class="org">Certis Cisco</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Teo Seng Choke" src="/images/Speakers/seng-choke.jpg">
 		<p class="name">Teo Seng Choke</p>
@@ -91,4 +95,4 @@ third_nav_title: Themed Talks
 	</div>
 </div>
 
-<style>.speaker-row{ align-items: flex-start; margin-top: 2rem; } .speaker{padding:10px;margin-bottom: 3rem;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;}</style>
+<style>.speaker-row{ align-items: flex-start; } .speaker{padding:10px;margin-bottom: 3rem;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;}</style>
