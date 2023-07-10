@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Exhibitors.md
-      - Themed Talks.md
+      - Themed Talks/.keep
+      - Themed Talks/Overview.md
+      - Themed Talks/Speakers.md
       - Company Talks.md
       - OneAviation Showcase.md

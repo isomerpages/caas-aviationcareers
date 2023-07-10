@@ -12,7 +12,7 @@ description: Join Us
 		1 Raffles Boulevard, Suntec City
 		Singapore 039593</p>
 	<br>
-	<a style="text-decoration: none; color: black; font-weight: bold; display: flex; gap: 8px" href="https://goo.gl/maps/JxbmcNv1sqHBXhUr5">
+	<a style="text-decoration: none; color: black; font-weight: bold; display: flex; gap: 8px" href="https://goo.gl/maps/JxbmcNv1sqHBXhUr5" target="_blank">
 		<p>VIEW MAP</p>
 			<div>
 				<img style="width:34px" src="/images/arrow-right.svg">
@@ -31,4 +31,4 @@ description: Join Us
 </div>
 </div>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #241538 !important;}</style>
+<style>#main-content a::after {content: none !important;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #241538 !important;}</style>
