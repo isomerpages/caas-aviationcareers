@@ -52,7 +52,7 @@ Singapore Institute of Technology
 *   [Bachelor of Engineering in Aircraft Systems Engineering](https://www.singaporetech.edu.sg/undergraduate-programmes/aircraft-systems-engineering)
 
 Singapore University of Social Sciences
-*   [Bachelor of Engineering in Aerospace Systems](https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems) 
+*   [Bachelor of Engineering in Aerospace Systems](https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems)
 
 Singapore University of Technology and Design
 *   [Bachelor of Engineering (Engineering Systems and Design), specialising in Aviation Systems focus track](https://esd.sutd.edu.sg/academics/undergraduate-programme/focus-tracks/aviation-systems/)
