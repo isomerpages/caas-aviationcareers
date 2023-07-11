@@ -2,10 +2,10 @@ collections:
   programme:
     output: true
     order:
-      - Aviation Education Showcase.md
       - Exhibitors.md
       - Themed Talks/.keep
       - Themed Talks/Overview.md
       - Themed Talks/Speakers.md
       - Company Talks.md
       - OneAviation Showcase.md
+      - Aviation Education Showcase.md
