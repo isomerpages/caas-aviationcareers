@@ -63,56 +63,56 @@ description: ""
 
 **Institute of Technical Education**
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-airport-operations" target="_blank">Work-Study Diploma in Airport Operations</a>
-*   [Work-Study Diploma in Customer Experience Management (Aviation)](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-customer-experience-management-(aviation-track))
-*   [Work-Study Diploma in Aircraft Cabin Engineering](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-cabin-engineering)
-*   [Work-Study Diploma in Aircraft Engine Maintenance](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-engine-maintenance)
-*   [Work-Study Diploma in Aircraft Maintenance Engineering](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-maintenance-engineering)
-*   [Work-Study Diploma in Security Operations](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-security-operations)
-*   [Nitec in Technology – Aerospace Machining Technology](https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-aerospace-machining-technology)
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-customer-experience-management-(aviation-track)" target="_blank">Work-Study Diploma in Customer Experience Management (Aviation)</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-cabin-engineering" target="_blank">Work-Study Diploma in Aircraft Cabin Engineering</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-engine-maintenance" target="_blank">Work-Study Diploma in Aircraft Engine Maintenance</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-maintenance-engineering" target="_blank">Work-Study Diploma in Aircraft Maintenance Engineering</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-security-operations" target="_blank">Work-Study Diploma in Security Operations</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-aerospace-machining-technology" target="_blank">Nitec in Technology – Aerospace Machining Technology</a>
 
 **Nanyang Polytechnic**
-*   [Diploma in Engineering (Aerospace Manufacturing)](https://www.nyp.edu.sg/schools/seg/lifelong-learning/engineering-aerospace-manufacturing.html)
+*   <a href="https://www.nyp.edu.sg/schools/seg/lifelong-learning/engineering-aerospace-manufacturing.html" target="_blank">Diploma in Engineering (Aerospace Manufacturing)</a>
 
 **Ngee Ann Polytechnic**
-*   [Diploma in Engineering (Aerospace)](https://www.cet.np.edu.sg/courses/diploma-in-engineering-aerospace/)    
+*   <a href="https://www.cet.np.edu.sg/courses/diploma-in-engineering-aerospace/" target="_blank">Diploma in Engineering (Aerospace)</a>
 
 **Republic Polytechnic**
-*   [Specialist Diploma in Aviation Management and Services](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-aviation-management-and-services)
+*   <a href="https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-aviation-management-and-services" target="_blank">Specialist Diploma in Aviation Management and Services</a>
 
 **Singapore Polytechnic**
-*   [Specialist Diploma in Robotics &amp; Automation (Advanced Robotics Application)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-robotics-automation-(advanced-robotics-application))
-*   [Work-Study Certificates leading to part-time Diploma in Engineering (Aerospace)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-certificates-leading-to-part-time-diploma-in-engineering-(aerospace))
-*   [Work-Study Certificates leading to part-time Diploma in Engineering (Advanced Manufacturing)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-certificates-leading-to-part-time-diploma-in-engineering-(advanced-manufacturing))
-*   [Specialist Diploma in Aviation Management (Air Cargo)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-aviation-management-(air-cargo))
-*   [Diploma in Engineering (Aerospace)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(aerospace))    
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-robotics-automation-(advanced-robotics-application)" target="_blank">Specialist Diploma in Robotics &amp; Automation (Advanced Robotics Application)</a>
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-certificates-leading-to-part-time-diploma-in-engineering-(aerospace)" target="_blank">Work-Study Certificates leading to part-time Diploma in Engineering (Aerospace)</a>
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-certificates-leading-to-part-time-diploma-in-engineering-(advanced-manufacturing)" target="_blank">Work-Study Certificates leading to part-time Diploma in Engineering (Advanced Manufacturing)</a>
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-aviation-management-(air-cargo)" target="_blank">Specialist Diploma in Aviation Management (Air Cargo)</a>
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(aerospace)" target="_blank">Diploma in Engineering (Aerospace)</a>    
 
 **Temasek Polytechnic**
-*   [Diploma in Engineering (Aviation Management)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/engineering-aviation-management.html)
-*   [Diploma in Engineering (Aerospace)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/engineering-aerospace.html)
+*   <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/engineering-aviation-management.html" target="_blank">Diploma in Engineering (Aviation Management)</a>
+*   <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/engineering-aerospace.html" target="_blank">Diploma in Engineering (Aerospace)</a>
 
 **Embry\-Riddle Aeronautical University Asia**&nbsp;
-*   [Bachelor of Science in Aviation Business Administration](https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration)
-*   [Bachelor of Science in Aeronautics](https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration%22%20%20HYPERLINK%20%22https://institute.erau.edu/degrees-offered/bachelor-aeronautics)
-*   [Master of Business Administration in Aviation](https://institute.erau.edu/degrees-offered/bachelor-aeronautics%22%20%20HYPERLINK%20%22https://institute.erau.edu/degrees-offered/master-business-administration-aviation)
-*   [Master of Science in Aeronautics](https://institute.erau.edu/degrees-offered/master-business-administration-aviation%22%20%20HYPERLINK%20%22https://institute.erau.edu/degrees-offered/master-aeronautics)
-*   [Master of Science in Aviation and Aerospace Sustainability](https://institute.erau.edu/degrees-offered/master-aeronautics%22%20%EF%BF%BDHYPERLINK%20%22https://institute.erau.edu/degrees-offered/master-aviation-aerospace-sustainability)
+*   <a href="https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration" target="_blank">Bachelor of Science in Aviation Business Administration</a>
+*   <a href="https://institute.erau.edu/degrees-offered/bachelor-aeronautics" target="_blank">Bachelor of Science in Aeronautics</a>
+*   <a href="https://institute.erau.edu/degrees-offered/master-business-administration-aviation" target="_blank">Master of Business Administration in Aviation</a>
+*   <a href="https://institute.erau.edu/degrees-offered/master-aeronautics" target="_blank">Master of Science in Aeronautics</a>
+*   <a href="https://institute.erau.edu/degrees-offered/master-aviation-aerospace-sustainability" target="_blank">Master of Science in Aviation and Aerospace Sustainability</a>
 
 **Singapore University of Social Sciences**
-*   [Bachelor of Engineering in Aerospace Systems](https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems)
+*   <a href="https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems" target="_blank">Bachelor of Engineering in Aerospace Systems</a>
 
 ##### **Curious about aviation, its careers and opportunities, and want to find out more?**
 
 *Learn more about the vibrant and enriching aviation exploration&nbsp;programmes&nbsp;that will help you gain a deeper appreciation of aviation, its&nbsp;diverse sectors, careers and opportunities.*
 
 **National Youth Council**
-*   [Job Tasters at a leading Aviation organisation](https://www.nyc.gov.sg/omw/tasters)
+*   <a href="https://www.nyc.gov.sg/omw/tasters" target="_blank">Job Tasters at a leading Aviation organisation</a>
 
 **Singapore Scouts Association – Air Scouts**
-*   [Air Scout Programme](https://scout.sg/programmes-and-resources/other-programmes/air-scout-programme/)
+*   <a href="https://scout.sg/programmes-and-resources/other-programmes/air-scout-programme/" target="_blank">Air Scout Programme</a>
 
 **SkillsFuture Singapore**
-*   [Skills Framework for Air Transport](https://www.skillsfuture.gov.sg/skills-framework/air-transport)
-*   [Skills Framework for Aerospace](https://www.skillsfuture.gov.sg/skills-framework/aero)
+*   <a href="https://www.skillsfuture.gov.sg/skills-framework/air-transport" target="_blank">Skills Framework for Air Transport</a>
+*   <a href="https://www.skillsfuture.gov.sg/skills-framework/aero" target="_blank">Skills Framework for Aerospace</a>
 
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
