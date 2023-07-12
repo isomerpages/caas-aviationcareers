@@ -55,7 +55,7 @@ description: ""
 *   <a href="https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems" target="_blank">Bachelor of Engineering in Aerospace Systems</a>
 
 **Singapore University of Technology and Design**
-*   <a href="https://esd.sutd.edu.sg/academics/undergraduate-programme/focus-tracks/aviation-systems/" target="_blank">Bachelor of Engineering (Engineering Systems and Design), specialising in Aviation Systems focus track</a>
+*   <a href="https://esd.sutd.edu.sg/academics/undergraduate-programme/focus-tracks/aviation-systems/" target="_blank">Bachelor of Engineering (Engineering Systems and Design) with Specialisation in Aviation Systems</a>
 
 ##### **Are you someone already working in aviation, or looking to join the aviation sector mid-career?**
 
