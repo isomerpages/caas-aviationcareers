@@ -33,9 +33,9 @@ description: ""
 *   <a href="https://www.sp.edu.sg/engineering-cluster/eee/courses/full-time-diplomas/aerospace-electronics/overview" target="_blank">Diploma in Aerospace Electronics</a>
 
 **Temasek Polytechnic**
-*   [Diploma in Aviation Management](https://www.tp.edu.sg/schools-and-courses/students/schools/eng/aviation-management.html)
-*   [Diploma in Aerospace Electronics](https://www.tp.edu.sg/t50)
-*   [Diploma in Aerospace Engineering](https://www.tp.edu.sg/t51)
+*   <a href="https://www.tp.edu.sg/schools-and-courses/students/schools/eng/aviation-management.html" target="_blank">Diploma in Aviation Management</a>
+*   <a href="https://www.tp.edu.sg/t50" target="_blank">Diploma in Aerospace Electronics</a>
+*   <a href="https://www.tp.edu.sg/t51" target="_blank">Diploma in Aerospace Engineering</a>
 
 **Embry\-Riddle Aeronautical University Asia**
 *   [Bachelor of Science in Aviation Business Administration](https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration)
