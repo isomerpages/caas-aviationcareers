@@ -11,9 +11,9 @@ description: ""
 
 **Institute of Technical Education**
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services]</a>
-*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology">Nitec in Aerospace Technology</a>
-*   [Nitec in Aerospace Avionics](https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-avionics)&nbsp;
-*   [Nitec in Aerospace Machining Technology](https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology)
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology" target="_blank">Nitec in Aerospace Technology</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-avionics" target="_blank">Nitec in Aerospace Avionics</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology" target="_blank">Nitec in Aerospace Machining Technology</a>
 
 **Nanyang Polytechnic**&nbsp;
 *   [Diploma in Aeronautical &amp; Aerospace Technology](https://www.nyp.edu.sg/schools/seg/full-time-courses/aeronautical-and-aerospace-technology.html)&nbsp;
