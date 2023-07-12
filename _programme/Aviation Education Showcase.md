@@ -23,11 +23,11 @@ description: ""
 *   <a href="https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering/diploma-in-aerospace-engineering" target="_blank">Diploma in Aerospace Engineering</a>
 
 **Republic Polytechnic&nbsp;**
-*   [Diploma in Aviation Management](https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aviation-management)
-*   [Diploma in Aerospace Engineering](https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aerospace-engineering)
+*   <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aviation-management" target="_blank">Diploma in Aviation Management</a>
+*   <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aerospace-engineering" target="_blank">Diploma in Aerospace Engineering</a>
 
 **Singapore Polytechnic&nbsp;**
-*   [Diploma in Aeronautical Engineering](https://www.sp.edu.sg/engineering-cluster/mae/courses/full-time-diplomas/aeronautical-engineering-/overview)&nbsp; 
+*   <a href="https://www.sp.edu.sg/engineering-cluster/mae/courses/full-time-diplomas/aeronautical-engineering-/overview" target="_blank">Diploma in Aeronautical Engineering</a>
 *   [Diploma in Engineering (Advanced Manufacturing)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(advanced-manufacturing)) 
 *   [Diploma in Engineering (Mechanical Technology)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(mechanical-technology))
 *   [Diploma in Aerospace Electronics](https://www.sp.edu.sg/engineering-cluster/eee/courses/full-time-diplomas/aerospace-electronics/overview)
