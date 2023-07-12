@@ -16,8 +16,8 @@ description: ""
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology" target="_blank">Nitec in Aerospace Machining Technology</a>
 
 **Nanyang Polytechnic**&nbsp;
-*   [Diploma in Aeronautical &amp; Aerospace Technology](https://www.nyp.edu.sg/schools/seg/full-time-courses/aeronautical-and-aerospace-technology.html)&nbsp;
-*   [Diploma in Aerospace Systems &amp; Management](https://www.nyp.edu.sg/schools/seg/full-time-courses/aerospace-systems-and-management.html)
+*   <a href="https://www.nyp.edu.sg/schools/seg/full-time-courses/aeronautical-and-aerospace-technology.html" target="_blank">Diploma in Aeronautical &amp; Aerospace Technology</a>
+*   <a href="https://www.nyp.edu.sg/schools/seg/full-time-courses/aerospace-systems-and-management.html" target="_blank">Diploma in Aerospace Systems &amp; Management</a>
 
 **Ngee Ann Polytechnic&nbsp;**
 *   [Diploma in Aerospace Engineering](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering/diploma-in-aerospace-engineering)
