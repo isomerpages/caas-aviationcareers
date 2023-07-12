@@ -62,7 +62,7 @@ description: ""
 *Explore a wide range of certifiable courses designed for those interested in work-study&nbsp;programmes, working adults, and post-graduate&nbsp;applicants to acquire industry-relevant skills and unlock new career opportunities and progression in the Aviation sector!*&nbsp;
 
 **Institute of Technical Education**
-*   [Work-Study Diploma in Airport Operations](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-airport-operations)
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-airport-operations" target="_blank">Work-Study Diploma in Airport Operations</a>
 *   [Work-Study Diploma in Customer Experience Management (Aviation)](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-customer-experience-management-(aviation-track))
 *   [Work-Study Diploma in Aircraft Cabin Engineering](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-cabin-engineering)
 *   [Work-Study Diploma in Aircraft Engine Maintenance](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-engine-maintenance)
