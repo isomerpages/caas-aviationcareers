@@ -48,14 +48,14 @@ description: ""
 *   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering" target="_blank">Bachelor of Engineering in Aerospace Engineering</a>
 
 **Singapore Institute of Technology**
-*   [Bachelor of Science in Air Transport Management](https://www.singaporetech.edu.sg/undergraduate-programmes/air-transport-management)
-*   [Bachelor of Engineering in Aircraft Systems Engineering](https://www.singaporetech.edu.sg/undergraduate-programmes/aircraft-systems-engineering)
+*   <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/air-transport-management" target="_blank">Bachelor of Science in Air Transport Management</a>
+*   <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/aircraft-systems-engineering" target="_blank">Bachelor of Engineering in Aircraft Systems Engineering</a>
 
 **Singapore University of Social Sciences**
-*   [Bachelor of Engineering in Aerospace Systems](https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems)
+*   <a href="https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems" target="_blank">Bachelor of Engineering in Aerospace Systems</a>
 
 **Singapore University of Technology and Design**
-*   [Bachelor of Engineering (Engineering Systems and Design), specialising in Aviation Systems focus track](https://esd.sutd.edu.sg/academics/undergraduate-programme/focus-tracks/aviation-systems/)
+*   <a href="https://esd.sutd.edu.sg/academics/undergraduate-programme/focus-tracks/aviation-systems/" target="_blank">Bachelor of Engineering (Engineering Systems and Design), specialising in Aviation Systems focus track</a>
 
 ##### **Are you someone already working in aviation, or looking to join the aviation sector mid-career?**
 
