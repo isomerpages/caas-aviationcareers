@@ -10,8 +10,8 @@ description: ""
 *There are many aviation&nbsp;programmes&nbsp;available in our local tertiary institutes.*
 
 **Institute of Technical Education**
-*   [Higher Nitec in Passenger Services](https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year)&nbsp;
-*   [Nitec in Aerospace Technology](https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year%22%20%EF%BF%BDHYPERLINK%20%22https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology)&nbsp;
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services]</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology">Nitec in Aerospace Technology</a>
 *   [Nitec in Aerospace Avionics](https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-avionics)&nbsp;
 *   [Nitec in Aerospace Machining Technology](https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology)
 
