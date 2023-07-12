@@ -20,7 +20,7 @@ description: ""
 *   <a href="https://www.nyp.edu.sg/schools/seg/full-time-courses/aerospace-systems-and-management.html" target="_blank">Diploma in Aerospace Systems &amp; Management</a>
 
 **Ngee Ann Polytechnic&nbsp;**
-*   [Diploma in Aerospace Engineering](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering/diploma-in-aerospace-engineering)
+*   <a href="https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering/diploma-in-aerospace-engineering" target="_blank">Diploma in Aerospace Engineering</a>
 
 **Republic Polytechnic&nbsp;**
 *   [Diploma in Aviation Management](https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aviation-management)
