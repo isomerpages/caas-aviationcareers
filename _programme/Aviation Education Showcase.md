@@ -115,4 +115,4 @@ description: ""
 *   <a href="https://www.skillsfuture.gov.sg/skills-framework/aero" target="_blank">Skills Framework for Aerospace</a>
 
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} a[target="_blank"]:after {content: "";}</style>
