@@ -28,9 +28,9 @@ description: ""
 
 **Singapore Polytechnic&nbsp;**
 *   <a href="https://www.sp.edu.sg/engineering-cluster/mae/courses/full-time-diplomas/aeronautical-engineering-/overview" target="_blank">Diploma in Aeronautical Engineering</a>
-*   [Diploma in Engineering (Advanced Manufacturing)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(advanced-manufacturing)) 
-*   [Diploma in Engineering (Mechanical Technology)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(mechanical-technology))
-*   [Diploma in Aerospace Electronics](https://www.sp.edu.sg/engineering-cluster/eee/courses/full-time-diplomas/aerospace-electronics/overview)
+*   <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(advanced-manufacturing)" target="_blank">Diploma in Engineering (Advanced Manufacturing)
+*   </a><a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-engineering-(mechanical-technology)" target="_blank">Diploma in Engineering (Mechanical Technology)</a>
+*   <a href="https://www.sp.edu.sg/engineering-cluster/eee/courses/full-time-diplomas/aerospace-electronics/overview" target="_blank">Diploma in Aerospace Electronics</a>
 
 **Temasek Polytechnic**
 *   [Diploma in Aviation Management](https://www.tp.edu.sg/schools-and-courses/students/schools/eng/aviation-management.html)
