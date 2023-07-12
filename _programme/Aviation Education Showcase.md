@@ -38,14 +38,14 @@ description: ""
 *   <a href="https://www.tp.edu.sg/t51" target="_blank">Diploma in Aerospace Engineering</a>
 
 **Embry\-Riddle Aeronautical University Asia**
-*   [Bachelor of Science in Aviation Business Administration](https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration)
-*   [Bachelor of Science in Aeronautics](https://institute.erau.edu/degrees-offered/bachelor-aeronautics)
+*   <a href="https://institute.erau.edu/degrees-offered/bachelor-aviation-business-administration" target="_blank">Bachelor of Science in Aviation Business Administration</a>
+*   <a href="https://institute.erau.edu/degrees-offered/bachelor-aeronautics" target="_blank">Bachelor of Science in Aeronautics</a>
 
 **National University of Singapore**
-*   [Bachelor of Engineering in Mechanical Engineering (Aeronautical Engineering)](https://cde.nus.edu.sg/me/undergraduate/beng-me/curriculum/)
+*   <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/curriculum/" target="_blank">Bachelor of Engineering in Mechanical Engineering (Aeronautical Engineering)</a>
 
 **Nanyang Technological University&nbsp;**
-*   [Bachelor of Engineering in Aerospace Engineering](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering)
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering" target="_blank">Bachelor of Engineering in Aerospace Engineering</a>
 
 **Singapore Institute of Technology**
 *   [Bachelor of Science in Air Transport Management](https://www.singaporetech.edu.sg/undergraduate-programmes/air-transport-management)
