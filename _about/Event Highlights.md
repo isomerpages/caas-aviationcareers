@@ -10,7 +10,7 @@ description: ""
 </div>
 <div style="width: 80%">
 <p>
-	<span style="font-weight: bold">Over 40 Exhibition</span> booths promoting aviation companies and showcasing careers, by key industry leaders such as Boeing, Bombardier, Changi Airport Group, FedEx, Singapore Airlines, ST Engineering, SATS, Pratt and Whitney, and many more!
+	<span style="font-weight: bold">Over 40 Exhibition</span> booths promoting aviation companies and showcasing careers, by key industry leaders such as Bombardier, Changi Airport Group, FedEx, Singapore Airlines, ST Engineering, SATS, Pratt and Whitney, and many more!
 </p>
 </div>
 </div>
