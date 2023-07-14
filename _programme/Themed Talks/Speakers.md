@@ -5,8 +5,48 @@ description: ""
 third_nav_title: Themed Talks
 ---
 ##### Airside and Cargo Operations –&nbsp;*Like clockwork: The World below the Wing*
+<div style="margin-top: 2rem;" class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Ling Ming Koon" src="/images/Speakers/ling-ming-koon.jpg">
+		<p class="name">Ling Ming Koon</p>
+		<p>Group Senior Vice President, Airport Operations&nbsp;Policy &amp; Business Continuity Planning</p>
+		<p>[Moderator]</p>
+		<p class="org">CAG</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Jacqueline Lam" src="/images/Speakers/jacqueline-lam.jpg">
+		<p class="name">Jacqueline Lam</p>
+		<p>Regional Lead for Sustainability</p>
+		<p class="org">Boeing</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Chris Lee" src="/images/Speakers/chris-lee.jpg">
+		<p class="name">Chris Lee</p>
+		<p>Ecosystem Architect &amp; Digital Innovation Developer</p>
+		<p class="org">Thales</p>
+	</div>
+</div>
+<div class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Sami Jauhiainen" src="/images/Speakers/sami-jauhiainen.jpg">
+		<p class="name">Sami Jauhiainen</p>
+		<p>Vice-President, APAC</p>
+		<p class="org">Neste</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Spencer Low" src="/images/Speakers/spencer-low.jpg">
+		<p class="name">Spencer Low</p>
+		<p>Chief Sustainability Officer</p>
+		<p class="org">SATS</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Stephen Leung" src="/images/Speakers/stephen-leung.jpg">
+		<p class="name">Stephen Leung</p>
+		<p>Manager Sustainability</p>
+		<p class="org">SIA</p>
+	</div>
+</div>
 
-*Stay tuned for more information!*
 <hr>
 
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
