@@ -129,13 +129,13 @@ third_nav_title: Themed Talks
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 <div style="margin-top: 2rem;" class="row speaker-row">
-	<!-- <div class="speaker col is-4">
-		<img src="/images/Speakers/eileen-oh.jpg" alt="Eileen Oh">
+	<div class="speaker col is-4">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
 		<p class="name">Eileen Oh</p>
 		<p>General Manager, Quality Service Management, Airport Operations Service</p>
 		<p>[Moderator]</p>
 		<p class="org">CAG</p>
-	</div> -->
+	</div>
 	<div class="speaker col is-4">
 		<img alt="Sharifah Azzah" src="/images/Speakers/sharifah-azzah.jpg">
 		<p class="name">Sharifah Azzah</p>
@@ -148,14 +148,14 @@ third_nav_title: Themed Talks
 		<p>Senior Manager, Certis Aviation Security</p>
 		<p class="org">Certis Cisco</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Teo Seng Choke" src="/images/Speakers/seng-choke.jpg">
 		<p class="name">Teo Seng Choke</p>
 		<p>Senior Manager SIN Hub</p>
 		<p class="org">SIA</p>
 	</div>
-</div>
-<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Tan Check Seng, Isaac" src="/images/Speakers/tan-check-seng-isaac.jpg">
 		<p class="name">Tan Check Seng, Isaac</p>
