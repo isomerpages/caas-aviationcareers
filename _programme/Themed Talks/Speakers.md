@@ -89,7 +89,42 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Technology –&nbsp;*New Frontiers for Aviation Technology*
-*Stay tuned for more information!*
+<div style="margin-top: 2rem;" class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Tan Kah Han" src="/images/Speakers/tan-kah-han.jpg">
+		<p class="name">Tan Kah Han</p>
+		<p>Chief Technology Officer</p>
+		<p>[Moderator]</p>
+		<p class="org">CAAS</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Poh&nbsp;Li San" src="/images/Speakers/poh-li-san.jpg">
+		<p class="name">Poh&nbsp;Li San</p>
+		<p>Senior Vice President (Terminal 5 Planning, Changi East)</p>
+		<p class="org">CAG</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Gabriel&nbsp;Mesquida-Masana" src="/images/Speakers/gabriel-mesquida-masana.jpg">
+		<p class="name">Gabriel&nbsp;Mesquida-Masana</p>
+		<p>Chief Product Owner</p>
+		<p class="org">Thales</p>
+	</div>
+</div>
+<div class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Derek Cheng" src="/images/Speakers/derek-cheng.jpg">
+		<p class="name">Derek Cheng</p>
+		<p>Head of Commercial Asia-Pacific</p>
+		<p class="org">Vertical&nbsp;Aerospace</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Sarah Lee" src="/images/Speakers/sarah-lee.jpg">
+		<p class="name">Sarah Lee</p>
+		<p>Head of Strategy &amp; Global Account Management (CA&nbsp;Region and Commercial Account)</p>
+		<p class="org">Airbus Asia&nbsp;Pacific</p>
+	</div>
+</div>
+
 <hr>
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
