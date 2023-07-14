@@ -101,8 +101,8 @@ description: ""
 *   <a href="https://www.suss.edu.sg/programmes/detail/beng-aerospace-systems" target="_blank">Bachelor of Engineering in Aerospace Systems</a>
 
 **Singapore Aviation Academy (Jointly organised with Massey University, New Zealand)**
-* <a href="https:/www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93295" target="_blank">Bachelor of Aviation Management by Distance Learning</a>
-* <a href="https:/www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93031" target="_blank">Master of Aviation by Distance Learning</a>
+* <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93295" target="_blank">Bachelor of Aviation Management by Distance Learning</a>
+* <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93031" target="_blank">Master of Aviation by Distance Learning</a>
 
 ##### **Curious about aviation, its careers and opportunities, and want to find out more?**
 
