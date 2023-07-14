@@ -6,13 +6,13 @@ third_nav_title: Themed Talks
 ---
 ##### Airside and Cargo Operations –&nbsp;*Like clockwork: The World below the Wing*
 <div style="margin-top: 2rem;" class="row speaker-row">
-<!--	<div class="speaker col is-4">
-		<img src="/images/Speakers/ling-ming-koon.jpg" alt="Ling Ming Koon">
+<div class="speaker col is-4">
+		<img alt="Ling Ming Koon" src="/images/Speakers/ling-ming-koon.jpg">
 		<p class="name">Ling Ming Koon</p>
 		<p>Group Senior Vice President, Airport Operations&nbsp;Policy &amp; Business Continuity Planning</p>
 		<p>[Moderator]</p>
 		<p class="org">CAG</p>
-	</div> -->
+	</div>
 	<div class="speaker col is-4">
 		<img alt="Ahmet Demir" src="/images/Speakers/ahmet-demir.jpg">
 		<p class="name">Ahmet Demir</p>
@@ -25,14 +25,14 @@ third_nav_title: Themed Talks
 		<p>Honorary Treasurer</p>
 		<p class="org">SAAA</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Chan Yee Lin" src="/images/Speakers/chan-yee-lin.jpg">
 		<p class="name">Chan Yee Lin</p>
 		<p>Head, Ramp Services (Customer Airlines/Freighter&nbsp;Ops)</p>
 		<p class="org">SATS</p>
 	</div>
-</div>
-<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Uthayan&nbsp;Sritaran" src="/images/Speakers/uthayan-sritaran.jpg">
 		<p class="name">Uthayan&nbsp;Sritaran</p>
@@ -97,26 +97,26 @@ third_nav_title: Themed Talks
 		<p>[Moderator]</p>
 		<p class="org">CAAS</p>
 	</div>
-	<!--<div class="speaker col is-4">
-		<img src="/images/Speakers/poh-li-san.jpg" alt="Poh&nbsp;Li San">
+	<div class="speaker col is-4">
+		<img alt="Poh&nbsp;Li San" src="/images/Speakers/poh-li-san.jpg">
 		<p class="name">Poh&nbsp;Li San</p>
 		<p>Senior Vice President (Terminal 5 Planning, Changi East)</p>
 		<p class="org">CAG</p>
-	</div>-->
+	</div>
 	<div class="speaker col is-4">
 		<img alt="Gabriel&nbsp;Mesquida-Masana" src="/images/Speakers/gabriel-mesquida-masana.jpg">
 		<p class="name">Gabriel&nbsp;Mesquida-Masana</p>
 		<p>Chief Product Owner</p>
 		<p class="org">Thales</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Derek Cheng" src="/images/Speakers/derek-cheng.jpg">
 		<p class="name">Derek Cheng</p>
 		<p>Head of Commercial Asia-Pacific</p>
 		<p class="org">Vertical&nbsp;Aerospace</p>
 	</div>
-</div>
-<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Sarah Lee" src="/images/Speakers/sarah-lee.jpg">
 		<p class="name">Sarah Lee</p>
