@@ -5,8 +5,42 @@ description: ""
 third_nav_title: Themed Talks
 ---
 ##### Airside and Cargo Operations –&nbsp;*Like clockwork: The World below the Wing*
+<div style="margin-top: 2rem;" class="row speaker-row">
+<div class="speaker col is-4">
+		<img alt="Ling Ming Koon" src="/images/Speakers/ling-ming-koon.jpg">
+		<p class="name">Ling Ming Koon</p>
+		<p>Group Senior Vice President, Airport Operations&nbsp;Policy &amp; Business Continuity Planning</p>
+		<p>[Moderator]</p>
+		<p class="org">CAG</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Ahmet Demir" src="/images/Speakers/ahmet-demir.jpg">
+		<p class="name">Ahmet Demir</p>
+		<p>Cargo Operations Manager</p>
+		<p class="org">dnata</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Jimmy&nbsp;Ler" src="/images/Speakers/jimmy-ler.jpg">
+		<p class="name">Jimmy&nbsp;Ler</p>
+		<p>Honorary Treasurer</p>
+		<p class="org">SAAA</p>
+	</div>
+</div>
+<div class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Chan Yee Lin" src="/images/Speakers/chan-yee-lin.jpg">
+		<p class="name">Chan Yee Lin</p>
+		<p>Head, Ramp Services (Customer Airlines/Freighter&nbsp;Ops)</p>
+		<p class="org">SATS</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Uthayan&nbsp;Sritaran" src="/images/Speakers/uthayan-sritaran.jpg">
+		<p class="name">Uthayan&nbsp;Sritaran</p>
+		<p>Vice President, Line Maintenance</p>
+		<p class="org">SIAEC</p>
+	</div>
+</div>
 
-*Stay tuned for more information!*
 <hr>
 
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
@@ -55,18 +89,53 @@ third_nav_title: Themed Talks
 <hr>
 
 ##### Technology –&nbsp;*New Frontiers for Aviation Technology*
-*Stay tuned for more information!*
+<div style="margin-top: 2rem;" class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Tan Kah Han" src="/images/Speakers/tan-kah-han.jpg">
+		<p class="name">Tan Kah Han</p>
+		<p>Chief Technology Officer</p>
+		<p>[Moderator]</p>
+		<p class="org">CAAS</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Poh&nbsp;Li San" src="/images/Speakers/poh-li-san.jpg">
+		<p class="name">Poh&nbsp;Li San</p>
+		<p>Senior Vice President (Terminal 5 Planning, Changi East)</p>
+		<p class="org">CAG</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Gabriel&nbsp;Mesquida-Masana" src="/images/Speakers/gabriel-mesquida-masana.jpg">
+		<p class="name">Gabriel&nbsp;Mesquida-Masana</p>
+		<p>Chief Product Owner</p>
+		<p class="org">Thales</p>
+	</div>
+</div>
+<div class="row speaker-row">
+	<div class="speaker col is-4">
+		<img alt="Derek Cheng" src="/images/Speakers/derek-cheng.jpg">
+		<p class="name">Derek Cheng</p>
+		<p>Head of Commercial Asia-Pacific</p>
+		<p class="org">Vertical&nbsp;Aerospace</p>
+	</div>
+	<div class="speaker col is-4">
+		<img alt="Sarah Lee" src="/images/Speakers/sarah-lee.jpg">
+		<p class="name">Sarah Lee</p>
+		<p>Head of Strategy &amp; Global Account Management (CA&nbsp;Region and Commercial Account)</p>
+		<p class="org">Airbus Asia&nbsp;Pacific</p>
+	</div>
+</div>
+
 <hr>
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 <div style="margin-top: 2rem;" class="row speaker-row">
-	<!-- <div class="speaker col is-4">
-		<img src="/images/Speakers/eileen-oh.jpg" alt="Eileen Oh">
+	<div class="speaker col is-4">
+		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
 		<p class="name">Eileen Oh</p>
 		<p>General Manager, Quality Service Management, Airport Operations Service</p>
 		<p>[Moderator]</p>
 		<p class="org">CAG</p>
-	</div> -->
+	</div>
 	<div class="speaker col is-4">
 		<img alt="Sharifah Azzah" src="/images/Speakers/sharifah-azzah.jpg">
 		<p class="name">Sharifah Azzah</p>
@@ -79,14 +148,14 @@ third_nav_title: Themed Talks
 		<p>Senior Manager, Certis Aviation Security</p>
 		<p class="org">Certis Cisco</p>
 	</div>
+</div>
+<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Teo Seng Choke" src="/images/Speakers/seng-choke.jpg">
 		<p class="name">Teo Seng Choke</p>
 		<p>Senior Manager SIN Hub</p>
 		<p class="org">SIA</p>
 	</div>
-</div>
-<div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Tan Check Seng, Isaac" src="/images/Speakers/tan-check-seng-isaac.jpg">
 		<p class="name">Tan Check Seng, Isaac</p>
