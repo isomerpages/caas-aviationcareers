@@ -9,4 +9,72 @@ description: Get to know some of Singapore’s aviation giants through in-servic
 
 Get to know some of Singapore’s aviation giants    as in-service employees reveal first-hand insights into the various aspects of work life and opportunities in their respective organisations.
 
+<table>
+	<thead>
+		<tr>
+			<th colspan="4">
+				DAY 2 | Sat<br>
+				5 Aug
+			</th>
+		</tr>
+		<tr>
+			<th>Time</th>
+			<th>Company</th>
+			<th>Speaker</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>10:00am to 10:30am</td>
+		<td>Singapore Aero Engine Services</td>
+		<td>TBC</td>
+	</tr>
+	<tr>
+		<td>10:30am to 11:00am</td>
+		<td>Garuda Robotics</td>
+		<td>Mark Yong, CEO</td>
+	</tr>
+	<tr>
+		<td>11:00am to 11:30am</td>
+		<td>Inmarsat</td>
+		<td>Lee Siu Min, Regional Business Development Director, Asia Pacific</td>
+	</tr>
+	<tr>
+		<td>11:30am to 12:00pm</td>
+		<td>Neste</td>
+		<td>Christina Lu-Maxwell, Head of Human Resources, Asia Pacific</td>
+	</tr>
+	<tr>
+		<td>1:00pm to 1:30pm</td>
+		<td>ST Engineering Aerospace</td>
+		<td>Edmund&nbsp;Chwa, Director, Commercial Engines &amp; Component Repair<br><br>Kelvin Chew, Assistant General Manager, Deport Operations and Senior&nbsp;Director, Engineering Software</td>
+	</tr>
+	<tr>
+		<td>1:30pm to 2:00pm</td>
+		<td>SATS</td>
+		<td>TBC</td>
+	</tr>
+	<tr>
+		<td>2:00pm to 2:30pm</td>
+		<td>Scoot</td>
+		<td>Maye Ho, Director of Cabin Services</td>
+	</tr>
+	<tr>
+		<td>2:30pm to 3:00pm</td>
+		<td>Singapore Airlines</td>
+		<td>TBC</td>
+	</tr>
+	<tr>
+		<td>3:00pm to 3:30pm</td>
+		<td>Bombardier Aerospace Services Singapore</td>
+		<td>Winston&nbsp;Hoo, Director, Operations</td>
+	</tr>
+	<tr>
+		<td>3:30pm to 4:00pm</td>
+		<td>Pratt &amp; Whitney</td>
+		<td>May Teo, General Manager, Pratt &amp; Whitney Canada</td>
+	</tr>
+	</tbody>
+</table>
+
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
