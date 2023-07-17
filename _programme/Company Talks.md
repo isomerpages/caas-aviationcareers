@@ -50,31 +50,31 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 		<td>Edmund&nbsp;Chwa, Director, Commercial Engines &amp; Component Repair<br><br>Kelvin Chew, Assistant General Manager, Deport Operations and Senior&nbsp;Director, Engineering Software</td>
 	</tr>
 	<tr>
-		<td>1:30pm to 2:00pm</td>
+		<td class="tdtime">1:30pm to 2:00pm</td>
 		<td>SATS</td>
 		<td>TBC</td>
 	</tr>
 	<tr>
-		<td>2:00pm to 2:30pm</td>
+		<td class="tdtime">2:00pm to 2:30pm</td>
 		<td>Scoot</td>
 		<td>Maye Ho, Director of Cabin Services</td>
 	</tr>
 	<tr>
-		<td>2:30pm to 3:00pm</td>
+		<td class="tdtime">2:30pm to 3:00pm</td>
 		<td>Singapore Airlines</td>
 		<td>TBC</td>
 	</tr>
 	<tr>
-		<td>3:00pm to 3:30pm</td>
+		<td class="tdtime">3:00pm to 3:30pm</td>
 		<td>Bombardier Aerospace Services Singapore</td>
 		<td>Winston&nbsp;Hoo, Director, Operations</td>
 	</tr>
 	<tr>
-		<td>3:30pm to 4:00pm</td>
+		<td class="tdtime">3:30pm to 4:00pm</td>
 		<td>Pratt &amp; Whitney</td>
 		<td>May Teo, General Manager, Pratt &amp; Whitney Canada</td>
 	</tr>
 	</tbody>
 </table>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px}</style>
