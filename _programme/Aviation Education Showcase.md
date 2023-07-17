@@ -3,7 +3,7 @@ title: Aviation Education Showcase
 permalink: /programme/aviation-education-showcase/
 description: ""
 ---
-### **About Aviation Education Showcase**
+### **About Aviation Education &amp; Outreach**
 
 ##### **Just out of school and looking for a tertiary&nbsp;programme&nbsp;that will equip you with the skills and competencies needed to propel you into an&nbsp;exciting career in aviation?**
 
