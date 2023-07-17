@@ -9,12 +9,12 @@ description: Get to know some of Singapore’s aviation giants through in-servic
 
 Get to know some of Singapore’s aviation giants    as in-service employees reveal first-hand insights into the various aspects of work life and opportunities in their respective organisations.
 
-<table>
+<table class="table">
 	<thead>
 		<tr>
-			<th colspan="4">
-				DAY 2 | Sat<br>
-				5 Aug
+			<th class="center-title" colspan="4">
+				<span style="font-size: 1.1rem;font-weight: 400;">DAY 2 |  SAT</span><br>
+				<span style="font-size: 1.5rem; font-weight: 800;">5 AUG</span>
 			</th>
 		</tr>
 		<tr>
@@ -77,4 +77,4 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	</tbody>
 </table>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important;}</style>
