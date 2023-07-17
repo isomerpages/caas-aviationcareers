@@ -18,9 +18,9 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 			</th>
 		</tr>
 		<tr>
-			<th>Time</th>
-			<th>Company</th>
-			<th>Speaker</th>
+			<th class="subtitle">Time</th>
+			<th class="subtitle">Company</th>
+			<th class="subtitle">Speaker</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -77,4 +77,4 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	</tbody>
 </table>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important;}</style>
