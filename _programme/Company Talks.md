@@ -9,7 +9,7 @@ description: Get to know some of Singapore’s aviation giants through in-servic
 
 Get to know some of Singapore’s aviation giants    as in-service employees reveal first-hand insights into the various aspects of work life and opportunities in their respective organisations.
 
-<table class="table">
+<table style="margin-top: 2rem;" class="table">
 	<thead>
 		<tr>
 			<th class="center-title" colspan="4">
