@@ -13,7 +13,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<thead>
 		<tr>
 			<th class="center-title" colspan="4">
-				<span style="font-size: 1.1rem;font-weight: 400;">DAY 2 |  SAT</span><br>
+				<span style="font-size: 1.2rem;font-weight: 400;">DAY 2 |  SAT</span><br>
 				<span style="font-size: 1.5rem; font-weight: 800;">5 AUG</span>
 			</th>
 		</tr>
@@ -77,4 +77,4 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	</tbody>
 </table>
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white; font-weight: 800; text-align: center; text-transform: uppercase; font-size: 1rem;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px}</style>
