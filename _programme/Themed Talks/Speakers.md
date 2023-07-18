@@ -138,7 +138,7 @@ third_nav_title: Themed Talks
 
 <div id="speaker-service">
 
-	<h5 style="margin: 2rem 0;"><b>Service – <i>The OneChangi Experience at the World’s Best Airport</i></b></h5>
+<h5 style="margin: 2rem 0;"><b>Service – <i>The OneChangi Experience at the World’s Best Airport</i></b></h5>
 <div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
