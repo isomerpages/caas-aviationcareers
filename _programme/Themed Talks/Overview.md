@@ -9,6 +9,44 @@ third_nav_title: Themed Talks
 
 Learn about the ambition and key initiatives for the future of aviation in Singapore and discover how you can be a part of it. Each 60-minute themed talk, held in panel discussion style brings together industry experts and in-service professionals who will share diverse insights and perspectives in areas of aviation Operations, Sustainability, Technology and Service.
 
+<table style="margin-top: 2rem;" class="table">
+	<thead>
+		<tr>
+			<th class="center-title" colspan="4">
+				<span style="font-size: 1.1rem;font-weight: 400;">DAY 2 |  SAT</span><br>
+				<span style="font-size: 1.4rem; font-weight: 900;">5 AUG</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="subtitle">Time</th>
+			<th class="subtitle">Topic</th>
+			<th class="subtitle">Speakers</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>1:00pm to 2:00pm</td>
+		<td>Airside and Cargo Operations –&nbsp;<span class="italic">Like clockwork: The World below the Wing</span></td>
+		<td><a href="#">View</a></td>
+	</tr>
+	<tr>
+		<td>2:00pm to 3:00pm</td>
+		<td>Sustainability –&nbsp;<span class="italic">Decarbonising&nbsp;the Future of Aviation</span></td>
+		<td><a href="#">View</a></td>
+	</tr>
+	<tr>
+		<td>3:30pm to 4:30pm</td>
+		<td>Technology –&nbsp;<span class="italic">New Frontiers for Aviation Technology</span></td>
+		<td><a href="#">View</a></td>
+	</tr>
+	<tr>
+		<td>4:30pm to 5:30pm</td>
+		<td>Service – <span class="italic">The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport</span></td>
+		<td><a href="#">View</a></td>
+	</tr>
+	</tbody>
+</table>
+
 ### **Synopsis**
 
 <h5 style="margin-top:-20px;"><b>Airside and Cargo Operations - <i>Like clockwork: The World below the Wing</i></b></h5>
@@ -38,4 +76,4 @@ Changi Airport is more than just a gateway to the world, it is a showcase of sea
   
 Join us in our candid chat with key service professionals as they share their breadth of service experience, training requirements and challenges faced in their continuous pursuit to uphold the Singapore OneAviation Experience at the World’s Best Airport.
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white; font-weight: 800; text-align: center; text-transform: uppercase; font-size: 1rem;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px} .italic{font-style: italic}</style>
