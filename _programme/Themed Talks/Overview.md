@@ -71,9 +71,7 @@ Innovation allows the aviation sector to leverage technology, in digitalization,
 Come hear from our panel of industry experts on thir experiences and perspectives in leveraging digital technology and automation to enhance business operations, and the exciting opportunities that the aviation sector has to offer as it becomes increasingly innovation focused.
 
 <h5 style="margin-top:2rem;"><b>Service - <i>The OneChangi Experience at the World’s Best Airport</i></b></h5>
-
 Changi Airport is more than just a gateway to the world, it is a showcase of seamless operations, symbol of service excellence and shining testament to Singapore’s commitment and pursuit of excellence.  
-  
 Join us in our candid chat with key service professionals as they share their breadth of service experience, training requirements and challenges faced in their continuous pursuit to uphold the Singapore OneAviation Experience at the World’s Best Airport.
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white; font-weight: 800; text-align: center; text-transform: uppercase; font-size: 1rem;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px} .italic{font-style: italic}</style>
