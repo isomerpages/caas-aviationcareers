@@ -27,22 +27,22 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 	<tr>
 		<td>1:00pm to 2:00pm</td>
 		<td>Airside and Cargo Operations –&nbsp;<span class="italic">Like clockwork: The World below the Wing</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo" target="_blank">View</a></td>
+		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>2:00pm to 3:00pm</td>
 		<td>Sustainability –&nbsp;<span class="italic">Decarbonising&nbsp;the Future of Aviation</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-sustainability" target="_blank">View</a></td>
+		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-sustainability" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>3:30pm to 4:30pm</td>
 		<td>Technology –&nbsp;<span class="italic">New Frontiers for Aviation Technology</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-technology" target="_blank">View</a></td>
+		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-technology" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>4:30pm to 5:30pm</td>
 		<td>Service – <span class="italic">The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-service" target="_blank">View</a></td>
+		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-service" target="_blank">View</a></td>
 	</tr>
 	</tbody>
 </table>
@@ -74,4 +74,4 @@ Come hear from our panel of industry experts on thir experiences and perspective
 Changi Airport is more than just a gateway to the world, it is a showcase of seamless operations, symbol of service excellence and shining testament to Singapore’s commitment and pursuit of excellence.  
 Join us in our candid chat with key service professionals as they share their breadth of service experience, training requirements and challenges faced in their continuous pursuit to uphold the Singapore OneAviation Experience at the World’s Best Airport.
 
-<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white; font-weight: 800; text-align: center; text-transform: uppercase; font-size: 1rem;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px} .italic{font-style: italic} .table td a {text-align: center;}</style>
+<style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} .table .center-title{text-align: center; background-color: #CB6F31; color: white;} .table .subtitle{background-color: #985324; color: white; font-weight: 800; text-align: center; text-transform: uppercase; font-size: 1rem;} .table td{font-weight: bold;} .table table, .table th, .table td{border: 2px solid #8E99A2 !important; vertical-align: middle !important;} .tdtime{width: 175px} .italic{font-style: italic} .table td.center {text-align: center;} a[target="_blank"]:after {content: "";}</style>
