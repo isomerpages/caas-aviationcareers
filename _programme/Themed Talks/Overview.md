@@ -13,8 +13,8 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 	<thead>
 		<tr>
 			<th class="center-title" colspan="4">
-				<span style="font-size: 1.1rem;font-weight: 400;">DAY 2 |  SAT</span><br>
-				<span style="font-size: 1.4rem; font-weight: 900;">5 AUG</span>
+				<span style="font-size: 1.1rem;font-weight: 400;">DAY 1 |  FRI</span><br>
+				<span style="font-size: 1.4rem; font-weight: 900;">4 AUG</span>
 			</th>
 		</tr>
 		<tr>
