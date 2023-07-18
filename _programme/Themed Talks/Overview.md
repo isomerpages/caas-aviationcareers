@@ -27,22 +27,22 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 	<tr>
 		<td>1:00pm to 2:00pm</td>
 		<td>Airside and Cargo Operations –&nbsp;<span class="italic">Like clockwork: The World below the Wing</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo">View</a></td>
+		<td><a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>2:00pm to 3:00pm</td>
 		<td>Sustainability –&nbsp;<span class="italic">Decarbonising&nbsp;the Future of Aviation</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-sustainability">View</a></td>
+		<td><a href="/programme/themed-talks/speakers/#speaker-sustainability" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>3:30pm to 4:30pm</td>
 		<td>Technology –&nbsp;<span class="italic">New Frontiers for Aviation Technology</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-technology">View</a></td>
+		<td><a href="/programme/themed-talks/speakers/#speaker-technology" target="_blank">View</a></td>
 	</tr>
 	<tr>
 		<td>4:30pm to 5:30pm</td>
 		<td>Service – <span class="italic">The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport</span></td>
-		<td><a href="/programme/themed-talks/speakers/#speaker-service">View</a></td>
+		<td><a href="/programme/themed-talks/speakers/#speaker-service" target="_blank">View</a></td>
 	</tr>
 	</tbody>
 </table>
