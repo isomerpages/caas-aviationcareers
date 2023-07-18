@@ -176,4 +176,4 @@ third_nav_title: Themed Talks
 </div>
 </div>
 
-<style>.speaker-row{ align-items: flex-start; } .speaker{padding:10px;margin-bottom: 2rem;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
+<style>.speaker-row{ align-items: flex-start; } .speaker{padding:10px;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
