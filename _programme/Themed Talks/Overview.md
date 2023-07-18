@@ -12,7 +12,7 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 <table style="margin-top: 2rem;" class="table">
 	<thead>
 		<tr>
-			<th class="center-title" colspan="4">
+			<th class="center-title" colspan="2">
 				<span style="font-size: 1.1rem;font-weight: 400;">DAY 1 |  FRI</span><br>
 				<span style="font-size: 1.4rem; font-weight: 900;">4 AUG</span>
 			</th>
@@ -20,29 +20,31 @@ Learn about the ambition and key initiatives for the future of aviation in Singa
 		<tr>
 			<th class="subtitle">Time</th>
 			<th class="subtitle">Topic</th>
-			<th class="subtitle">Speakers</th>
 		</tr>
 	</thead>
 	<tbody>
 	<tr>
 		<td>1:00pm to 2:00pm</td>
-		<td>Airside and Cargo Operations –&nbsp;<span class="italic">Like clockwork: The World below the Wing</span></td>
-		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo" target="_blank">View</a></td>
+		<td>Airside and Cargo Operations –&nbsp;<span class="italic">Like clockwork: The World below the Wing</span><br><br>
+			<a href="/programme/themed-talks/speakers/#speaker-airside-and-cargo" target="_blank"><i>View Speakers</i></a>
+		</td>
 	</tr>
 	<tr>
 		<td>2:00pm to 3:00pm</td>
-		<td>Sustainability –&nbsp;<span class="italic">Decarbonising&nbsp;the Future of Aviation</span></td>
-		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-sustainability" target="_blank">View</a></td>
+		<td>Sustainability –&nbsp;<span class="italic">Decarbonising&nbsp;the Future of Aviation</span><br><br>
+		<a href="/programme/themed-talks/speakers/#speaker-sustainability" target="_blank"><i>View Speakers</i></a>
+		</td>
 	</tr>
 	<tr>
 		<td>3:30pm to 4:30pm</td>
-		<td>Technology –&nbsp;<span class="italic">New Frontiers for Aviation Technology</span></td>
-		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-technology" target="_blank">View</a></td>
+		<td>Technology –&nbsp;<span class="italic">New Frontiers for Aviation Technology</span><br><br>
+		<a href="/programme/themed-talks/speakers/#speaker-technology" target="_blank"><i>View Speakers</i></a>
+		</td>
 	</tr>
 	<tr>
 		<td>4:30pm to 5:30pm</td>
-		<td>Service – <span class="italic">The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport</span></td>
-		<td class="center"><a href="/programme/themed-talks/speakers/#speaker-service" target="_blank">View</a></td>
+		<td>Service – <span class="italic">The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport</span><br><br>
+			<a href="/programme/themed-talks/speakers/#speaker-service" target="_blank"><i>View Speakers</i></a></td>
 	</tr>
 	</tbody>
 </table>
