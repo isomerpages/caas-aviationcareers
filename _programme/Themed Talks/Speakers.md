@@ -6,7 +6,7 @@ third_nav_title: Themed Talks
 ---
 <div id="speaker-airside-and-cargo">
 	
-<h5 style="margin-bottom: 2rem;"><b>Airside and Cargo Operations – <i>Like clockwork: The World below the Wing</i></b></h5>
+<h5 style="padding-bottom: 2rem;"><b>Airside and Cargo Operations – <i>Like clockwork: The World below the Wing</i></b></h5>
 
 <div class="row speaker-row">
 <div class="speaker col is-4">
@@ -48,7 +48,7 @@ third_nav_title: Themed Talks
 <hr>
 
 <div id="speaker-sustainability">
-<h5 style="margin: 2rem 0;"><b>Sustainability – <i>Decarbonising&nbsp;the Future of Aviation</i></b></h5>
+<h5 style="padding: 2rem 0;"><b>Sustainability – <i>Decarbonising&nbsp;the Future of Aviation</i></b></h5>
 <div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Daniel Ng" src="/images/Speakers/daniel-ng.jpg">
@@ -96,7 +96,7 @@ third_nav_title: Themed Talks
 
 <div id="speaker-technology">
 
-<h5 style="margin: 2rem 0;"><b>Technology – <i>New Frontiers for Aviation Technology</i></b></h5>
+<h5 style="padding: 2rem 0;"><b>Technology – <i>New Frontiers for Aviation Technology</i></b></h5>
 <div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Tan Kah Han" src="/images/Speakers/tan-kah-han.jpg">
@@ -138,7 +138,7 @@ third_nav_title: Themed Talks
 
 <div id="speaker-service">
 
-<h5 style="margin: 2rem 0;"><b>Service – <i>The OneChangi Experience at the World’s Best Airport</i></b></h5>
+<h5 style="padding: 2rem 0;"><b>Service – <i>The OneChangi Experience at the World’s Best Airport</i></b></h5>
 <div class="row speaker-row">
 	<div class="speaker col is-4">
 		<img alt="Eileen Oh" src="/images/Speakers/eileen-oh.jpg">
