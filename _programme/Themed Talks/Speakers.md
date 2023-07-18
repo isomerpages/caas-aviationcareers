@@ -6,7 +6,7 @@ third_nav_title: Themed Talks
 ---
 <div id="speaker-airside-and-cargo">
 	
-<h5 style="margin: 2rem 0;"><b>Airside and Cargo Operations – <i>Like clockwork: The World below the Wing</i></b></h5>
+<h5 style="margin-bottom: 2rem;"><b>Airside and Cargo Operations – <i>Like clockwork: The World below the Wing</i></b></h5>
 
 <div class="row speaker-row">
 <div class="speaker col is-4">
