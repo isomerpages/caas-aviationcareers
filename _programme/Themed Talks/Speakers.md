@@ -4,7 +4,10 @@ permalink: /programme/themed-talks/speakers/
 description: ""
 third_nav_title: Themed Talks
 ---
+<div id="speaker-airside-and-cargo">
+	
 ##### Airside and Cargo Operations –&nbsp;*Like clockwork: The World below the Wing*
+
 <div style="margin-top: 2rem;" class="row speaker-row">
 <div class="speaker col is-4">
 		<img alt="Ling Ming Koon" src="/images/Speakers/ling-ming-koon.jpg">
@@ -40,9 +43,12 @@ third_nav_title: Themed Talks
 		<p class="org">SIAEC</p>
 	</div>
 </div>
+</div>
 
 <hr>
 
+<div id="speaker-sustainability">
+	
 ##### Sustainability –&nbsp;*Decarbonising&nbsp;the Future of Aviation*
 <div style="margin-top: 2rem;" class="row speaker-row">
 	<div class="speaker col is-4">
@@ -85,8 +91,11 @@ third_nav_title: Themed Talks
 		<p class="org">SIA</p>
 	</div>
 </div>
+</div>
 
 <hr>
+
+<div id="speaker-technology">
 
 ##### Technology –&nbsp;*New Frontiers for Aviation Technology*
 <div style="margin-top: 2rem;" class="row speaker-row">
@@ -124,8 +133,11 @@ third_nav_title: Themed Talks
 		<p class="org">Airbus Asia&nbsp;Pacific</p>
 	</div>
 </div>
+</div>
 
 <hr>
+
+<div id="speaker-service">
 
 ##### Service –&nbsp;*The&nbsp;OneChangi&nbsp;Experience at the World’s Best Airport*
 <div style="margin-top: 2rem;" class="row speaker-row">
@@ -162,6 +174,7 @@ third_nav_title: Themed Talks
 		<p>Senior Assistant Commander (Airport, Ground Operations)</p>
 		<p class="org">ICA</p>
 	</div>
+</div>
 </div>
 
 <style>.speaker-row{ align-items: flex-start; } .speaker{padding:10px;margin-bottom: 3rem;} .speaker img{clip-path: circle();width: 150px;margin-bottom:20px;} .speaker{display:flex;flex-direction:column;align-items: center;}.speaker p, .speaker h4{text-align: center;margin: 0 !Important;font-size: 0.9rem;line-height: 1.4rem;} .speaker .org, .speaker .name{font-weight:bold;} #main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
