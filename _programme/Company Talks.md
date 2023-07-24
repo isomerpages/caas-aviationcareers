@@ -27,7 +27,14 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td>10:00am to 10:30am</td>
 		<td>Singapore Aero Engine Services</td>
-		<td>TBC</td>
+		<td>
+			<ul>
+				<li>Seeto&nbsp;Tong Howe, Manager, Engine Overhauls</li>
+				<li>Michael Lee, Head, Talent Acquisition</li>
+				<li>Subbaiyan&nbsp;Boopathi, Senior Technical Services Engineer</li>
+				<li>Nur Sarah, Technician I</li>
+			</ul>
+		</td>
 	</tr>
 	<tr>
 		<td>10:30am to 11:00am</td>
@@ -37,12 +44,12 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td>11:00am to 11:30am</td>
 		<td>Inmarsat</td>
-		<td>Lee Siu Min, Regional Business Development Director, Asia Pacific</td>
+		<td>Lee Siu-Min, Regional Business Development Director, Asia Pacific</td>
 	</tr>
 	<tr>
 		<td>11:30am to 12:00pm</td>
 		<td>Neste</td>
-		<td>Christina Lu-Maxwell, Head of Human Resources, Asia Pacific</td>
+		<td>Christina Lu-Maxwell, Head of Human Resources, Asia Pacific<br><br>Leslie Lai, Key Account Manager, Renewable Aviation</td>
 	</tr>
 	<tr>
 		<td>1:00pm to 1:30pm</td>
@@ -52,7 +59,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td class="tdtime">1:30pm to 2:00pm</td>
 		<td>SATS</td>
-		<td>TBC</td>
+		<td>Jeremy Tang<br>Head, Talent Acquisition &amp; Resource Planning</td>
 	</tr>
 	<tr>
 		<td class="tdtime">2:00pm to 2:30pm</td>
