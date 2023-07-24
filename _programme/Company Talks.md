@@ -59,7 +59,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td class="tdtime">1:30pm to 2:00pm</td>
 		<td>SATS</td>
-		<td>Jeremy Tang<br>Head, Talent Acquisition &amp; Resource Planning</td>
+		<td>Jeremy Tang, Head, Talent Acquisition &amp; Resource Planning</td>
 	</tr>
 	<tr>
 		<td class="tdtime">2:00pm to 2:30pm</td>
