@@ -69,7 +69,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td class="tdtime">2:30pm to 3:00pm</td>
 		<td>Singapore Airlines</td>
-		<td>TBC</td>
+		<td>Yee&nbsp;Lishan, Senior Manager Talent Acquisition &amp; Staffing</td>
 	</tr>
 	<tr>
 		<td class="tdtime">3:00pm to 3:30pm</td>
