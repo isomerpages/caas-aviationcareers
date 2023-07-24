@@ -2,6 +2,7 @@
 title: Aviation Education & Outreach
 permalink: /programme/aviation-education-showcase/
 description: ""
+image: /images/preview-card.jpg
 ---
 ### **About Aviation Education &amp; Outreach**
 

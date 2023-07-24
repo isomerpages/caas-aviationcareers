@@ -4,6 +4,7 @@ permalink: /programme/themed-talks/
 description: Learn about the ambition and key initiatives for the future of
   aviation in Singapore and discover how you can be a part of it.
 third_nav_title: Themed Talks
+image: /images/preview-card.jpg
 ---
 ### **About Themed Talks**
 

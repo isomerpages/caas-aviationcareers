@@ -2,6 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 description: Terms of Use
+image: /images/preview-card.jpg
 ---
 ### **General**
 

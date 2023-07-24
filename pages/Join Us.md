@@ -2,6 +2,7 @@
 title: Join Us
 permalink: /join-us/
 description: Join Us
+image: /images/preview-card.jpg
 ---
 <div style="justify-content: space-between;" class="row">
 <div class="col is-6">

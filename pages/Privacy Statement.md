@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
+image: /images/preview-card.jpg
 ---
 ### **CIVIL AVIATION AUTHORITY OF SINGAPORE PRIVACY STATEMENT**
 

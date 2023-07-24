@@ -3,6 +3,7 @@ title: Exhibitors
 permalink: /programme/exhibitors/
 description: Together with our OneAviation partners, we seek to make the world
   of aviation accessible to all.
+image: /images/preview-card.jpg
 ---
 #### **Together with our OneAviation partners, we seek to make the world of aviation accessible to you**
 
@@ -22,7 +23,7 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Jetstar Asia</li>
 			<li>Immigration and Checkpoints Authority</li>
 			<li>Certis Cisco Aviation Security</li>
-			<li>Lotte Travel Retail Singapore</li>
+			<li>Lotte Duty Free</li>
 		</ul>
 		<h5><b>Unmanned System</b></h5>
 		<ul>

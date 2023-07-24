@@ -2,6 +2,7 @@
 title: Event Highlights
 permalink: /about/event-highlights/
 description: ""
+image: /images/preview-card.jpg
 ---
 # Event Highlights
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">

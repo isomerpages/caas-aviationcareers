@@ -3,6 +3,7 @@ title: Speakers
 permalink: /programme/themed-talks/speakers/
 description: ""
 third_nav_title: Themed Talks
+image: /images/preview-card.jpg
 ---
 <div id="speaker-airside-and-cargo">
 	
