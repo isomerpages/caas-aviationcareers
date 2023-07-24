@@ -27,8 +27,13 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td>10:00am to 10:30am</td>
 		<td>Singapore Aero Engine Services</td>
-		<td>Seeto&nbsp;Tong Howe, Manager, Engine Overhauls<br>Michael Lee, Head, Talent Acquisition<br>Subbaiyan&nbsp;Boopathi, Senior Technical Services Engineer<br>Nur Sarah, Technician I
-			
+		<td>
+			<ul>
+				<li>Seeto&nbsp;Tong Howe, Manager, Engine Overhauls</li>
+				<li>Michael Lee, Head, Talent Acquisition</li>
+				<li>Subbaiyan&nbsp;Boopathi, Senior Technical Services Engineer</li>
+				<li>Nur Sarah, Technician I</li>
+			</ul>
 		</td>
 	</tr>
 	<tr>
