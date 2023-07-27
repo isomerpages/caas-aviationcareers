@@ -6,7 +6,7 @@ description: Get to know some of Singapore’s aviation giants through in-servic
   work life and opportunities in the respective organisations.
 image: /images/preview-card.jpg
 ---
-### **About Company Talks**
+### **About Company Career Talks**
 
 Get to know some of Singapore’s aviation giants    as in-service employees reveal first-hand insights into the various aspects of work life and opportunities in their respective organisations.
 
