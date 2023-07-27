@@ -21,7 +21,7 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Singapore Airlines</li>
 			<li>Scoot</li>
 			<li>Jetstar Asia</li>
-			<li>Immigration and Checkpoints Authority</li>
+			<li>Immigration &amp; Checkpoints Authority</li>
 			<li>Certis Group</li>
 			<li>Lotte Duty Free</li>
 		</ul>
