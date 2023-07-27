@@ -65,7 +65,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td class="tdtime">2:00pm to 2:30pm</td>
 		<td>Scoot</td>
-		<td>Maye Ho, Director of Cabin Services</td>
+		<td>Yee&nbsp;Lishan, Senior&nbsp;Manager, Talent Acquisition &amp; Staffing</td>
 	</tr>
 	<tr>
 		<td class="tdtime">2:30pm to 3:00pm</td>
