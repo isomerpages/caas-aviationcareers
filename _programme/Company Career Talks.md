@@ -31,9 +31,9 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 		<td>
 			<ul class="speaker-list">
 				<li><b>Seeto&nbsp;Tong Howe</b>, Manager, Engine Overhauls</li>
-				<li>Michael Lee, Head, Talent Acquisition</li>
-				<li>Subbaiyan&nbsp;Boopathi, Senior Technical Services Engineer</li>
-				<li>Nur Sarah, Technician I</li>
+				<li><b>Michael Lee</b>, Head, Talent Acquisition</li>
+				<li><b>Subbaiyan&nbsp;Boopathi</b>, Senior Technical Services Engineer</li>
+				<li><b>Nur Sarah</b>, Technician I</li>
 			</ul>
 		</td>
 	</tr>
