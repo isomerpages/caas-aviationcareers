@@ -2,7 +2,7 @@
 title: Speakers
 permalink: /programme/themed-talks/speakers/
 description: ""
-third_nav_title: Themed Talks
+third_nav_title: Thematic Talks​
 image: /images/preview-card.jpg
 ---
 <div id="speaker-airside-and-cargo">
@@ -158,7 +158,7 @@ image: /images/preview-card.jpg
 		<img alt="Wu Weiren" src="/images/Speakers/wu-weiren.jpg">
 		<p class="name">Wu Weiren</p>
 		<p>Senior Manager, Certis Aviation Security</p>
-		<p class="org">Certis Cisco</p>
+		<p class="org">Certis Group</p>
 	</div>
 </div>
 <div class="row speaker-row">

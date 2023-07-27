@@ -21,8 +21,8 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 			<li>Singapore Airlines</li>
 			<li>Scoot</li>
 			<li>Jetstar Asia</li>
-			<li>Immigration and Checkpoints Authority</li>
-			<li>Certis Cisco Aviation Security</li>
+			<li>Immigration &amp; Checkpoints Authority</li>
+			<li>Certis Group</li>
 			<li>Lotte Duty Free</li>
 		</ul>
 		<h5><b>Unmanned System</b></h5>
@@ -63,7 +63,7 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 		<ul>
 			<li>Thales</li>
 			<li>Bombardier</li>
-			<li>ST Engineering Aerospace</li>
+			<li>ST Engineering</li>
 			<li>Pratt and Whitney</li>
 			<li>Singapore Aero Engine Services</li>
 			<li>Association of Aerospace Industries Singapore</li>
