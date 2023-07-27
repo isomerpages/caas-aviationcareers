@@ -26,8 +26,8 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	</thead>
 	<tbody>
 	<tr>
-		<td>10:00am to 10:30am</td>
-		<td>Singapore Aero Engine Services</td>
+		<td><b>10:00am to 10:30am</b></td>
+		<td><b>Singapore Aero Engine Services</b></td>
 		<td>
 			<ul class="speaker-list">
 				<li><b>Seeto&nbsp;Tong Howe</b>, Manager, Engine Overhauls</li>
@@ -38,49 +38,49 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 		</td>
 	</tr>
 	<tr>
-		<td>10:30am to 11:00am</td>
-		<td>Garuda Robotics</td>
-		<td>Mark Yong, CEO</td>
+		<td><b>10:30am to 11:00am</b></td>
+		<td><b>Garuda Robotics</b></td>
+		<td><b>Mark Yong</b>, CEO</td>
 	</tr>
 	<tr>
-		<td>11:00am to 11:30am</td>
-		<td>Inmarsat</td>
-		<td>Lee Siu-Min, Regional Business Development Director, Asia Pacific</td>
+		<td><b>11:00am to 11:30am</b></td>
+		<td><b>Inmarsat</b></td>
+		<td><b>Lee Siu-Min</b>, Regional Business Development Director, Asia Pacific</td>
 	</tr>
 	<tr>
-		<td>11:30am to 12:00pm</td>
-		<td>Neste</td>
-		<td>Christina Lu-Maxwell, Head of Human Resources, Asia Pacific<br><br>Leslie Lai, Key Account Manager, Renewable Aviation</td>
+		<td><b>11:30am to 12:00pm</b></td>
+		<td><b>Neste</b></td>
+		<td><b>Christina Lu-Maxwell</b>, Head of Human Resources, Asia Pacific<br><br><b>Leslie Lai</b>, Key Account Manager, Renewable Aviation</td>
 	</tr>
 	<tr>
-		<td>1:00pm to 1:30pm</td>
-		<td>ST Engineering Aerospace</td>
-		<td>Edmund&nbsp;Chwa, Director, Commercial Engines &amp; Component Repair<br><br>Kelvin Chew, Assistant General Manager, Deport Operations and Senior&nbsp;Director, Engineering Software</td>
+		<td><b>1:00pm to 1:30pm</b></td>
+		<td><b>ST Engineering</b></td>
+		<td><b>Edmund&nbsp;Chwa</b>, Director, Commercial Engines &amp; Component Repair<br><br><b>Kelvin Chew</b>, Assistant General Manager, Deport Operations and Senior&nbsp;Director, Engineering Software</td>
 	</tr>
 	<tr>
-		<td class="tdtime">1:30pm to 2:00pm</td>
-		<td>SATS</td>
-		<td>Jeremy Tang, Head, Talent Acquisition &amp; Resource Planning</td>
+		<td class="tdtime"><b>1:30pm to 2:00pm</b></td>
+		<td><b>SATS</b></td>
+		<td><b>Jeremy Tang</b>, Head, Talent Acquisition &amp; Resource Planning</td>
 	</tr>
 	<tr>
-		<td class="tdtime">2:00pm to 2:30pm</td>
-		<td>Scoot</td>
-		<td>Yee&nbsp;Lishan, Senior&nbsp;Manager, Talent Acquisition &amp; Staffing</td>
+		<td class="tdtime"><b>2:00pm to 2:30pm</b></td>
+		<td><b>Scoot</b></td>
+		<td><b>Yee&nbsp;Lishan</b>, Senior&nbsp;Manager, Talent Acquisition &amp; Staffing</td>
 	</tr>
 	<tr>
-		<td class="tdtime">2:30pm to 3:00pm</td>
-		<td>Singapore Airlines</td>
-		<td>Yee&nbsp;Lishan, Senior Manager Talent Acquisition &amp; Staffing</td>
+		<td class="tdtime"><b>2:30pm to 3:00pm</b></td>
+		<td><b>Singapore Airlines</b></td>
+		<td><b>Yee&nbsp;Lishan</b>, Senior Manager Talent Acquisition &amp; Staffing</td>
 	</tr>
 	<tr>
-		<td class="tdtime">3:00pm to 3:30pm</td>
-		<td>Bombardier Aerospace Services Singapore</td>
-		<td>Winston&nbsp;Hoo, Director, Operations</td>
+		<td class="tdtime"><b>3:00pm to 3:30pm</b></td>
+		<td><b>Bombardier Aerospace Services Singapore</b></td>
+		<td><b>Winston&nbsp;Hoo</b>, Director, Operations</td>
 	</tr>
 	<tr>
-		<td class="tdtime">3:30pm to 4:00pm</td>
-		<td>Pratt &amp; Whitney</td>
-		<td>May Teo, General Manager, Pratt &amp; Whitney Canada</td>
+		<td class="tdtime"><b>3:30pm to 4:00pm</b></td>
+		<td><b>Pratt &amp; Whitney</b></td>
+		<td><b>May Teo</b>, General Manager, Pratt &amp; Whitney Canada</td>
 	</tr>
 	</tbody>
 </table>
