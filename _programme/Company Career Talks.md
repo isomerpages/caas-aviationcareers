@@ -65,7 +65,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td class="tdtime"><b>2:00pm to 2:30pm</b></td>
 		<td><b>Scoot</b></td>
-		<td><b>Yee&nbsp;Lishan</b>, Senior&nbsp;Manager, Talent Acquisition &amp; Staffing</td>
+		<td><b>Vanessa Tan</b>, Specialist, Cabin Services</td>
 	</tr>
 	<tr>
 		<td class="tdtime"><b>2:30pm to 3:00pm</b></td>
