@@ -158,7 +158,7 @@ image: /images/preview-card.jpg
 		<img alt="Wu Weiren" src="/images/Speakers/wu-weiren.jpg">
 		<p class="name">Wu Weiren</p>
 		<p>Senior Manager, Certis Aviation Security</p>
-		<p class="org">Certis Cisco</p>
+		<p class="org">Certis Group</p>
 	</div>
 </div>
 <div class="row speaker-row">
