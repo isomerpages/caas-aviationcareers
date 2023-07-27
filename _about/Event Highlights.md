@@ -63,7 +63,7 @@ image: /images/preview-card.jpg
 </div>
 <div style="width: 80%">
 <p>
-	<span style="font-weight: bold">Thematic career talk series</span> that brings together industry experts and professionals to share their perspectives and diverse career opportunities in areas such as Service, Operations, Technology and Sustainability.
+	<span style="font-weight: bold">Thematic talk series</span> that brings together industry experts and professionals to share their perspectives and diverse career opportunities in areas such as Service, Operations, Technology and Sustainability.
 </p>
 </div>
 </div>
