@@ -47,7 +47,7 @@ image: /images/preview-card.jpg
 <div style="width: 100%; display: flex; flex-direction: row; align-items: center;gap: 24px;">
 <div style="width: 80%">
 	<p>
-		<span style="font-weight: bold">Aviation Education Zone</span> showcasing aviation education pathways and programmes, and skills upgrading opportunities for students and working professionals.
+		<span style="font-weight: bold">Aviation Education and Outreach zone</span> showcasing youth outreach initiatives, aviation education pathways and programmes, and skills upgrading opportunities for students and working professionals.
 	</p>
 </div>
 	<div style="width: 20%">
@@ -63,7 +63,7 @@ image: /images/preview-card.jpg
 </div>
 <div style="width: 80%">
 <p>
-	<span style="font-weight: bold">Themed career talk series</span> that brings together industry experts and professionals to share their perspectives and diverse career opportunities in areas such as Service, Operations, Technology and Sustainability.
+	<span style="font-weight: bold">Thematic career talk series</span> that brings together industry experts and professionals to share their perspectives and diverse career opportunities in areas such as Service, Operations, Technology and Sustainability.
 </p>
 </div>
 </div>
