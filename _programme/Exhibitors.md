@@ -63,7 +63,7 @@ Plan your visit to OAC 2023, check out the exhibitors here.
 		<ul>
 			<li>Thales</li>
 			<li>Bombardier</li>
-			<li>ST Engineering Aerospace</li>
+			<li>ST Engineering</li>
 			<li>Pratt and Whitney</li>
 			<li>Singapore Aero Engine Services</li>
 			<li>Association of Aerospace Industries Singapore</li>
