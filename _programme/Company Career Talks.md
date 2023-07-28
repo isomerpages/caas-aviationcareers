@@ -74,7 +74,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	</tr>
 	<tr>
 		<td class="tdtime"><b>3:00pm to 3:30pm</b></td>
-		<td><b>Bombardier Aerospace Services Singapore</b></td>
+		<td><b>Bombardier</b></td>
 		<td><b>Winston&nbsp;Hoo</b>, Director, Operations</td>
 	</tr>
 	<tr>
