@@ -109,7 +109,7 @@ image: /images/preview-card.jpg
 	<div class="speaker col is-4">
 		<img alt="Poh&nbsp;Li San" src="/images/Speakers/poh-li-san.jpg">
 		<p class="name">Poh&nbsp;Li San</p>
-		<p>Senior Vice President (Terminal 5 Planning, Changi East)</p>
+		<p>Senior Vice President<br>Changi East Specialised Systems</p>
 		<p class="org">CAG</p>
 	</div>
 	<div class="speaker col is-4">
