@@ -116,6 +116,8 @@ image: /images/preview-card.jpg
 * <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93295" target="_blank">Bachelor of Aviation Management by Distance Learning</a>
 * <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93031" target="_blank">Master of Aviation by Distance Learning</a>
 
+*Note: Most of these courses can be taken part-time*
+
 ##### **Curious about aviation, its careers and opportunities, and want to find out more?**
 
 *Learn more about the vibrant and enriching aviation exploration&nbsp;programmes&nbsp;that will help you gain a deeper appreciation of aviation, its&nbsp;diverse sectors, careers and opportunities.*
@@ -130,5 +132,6 @@ image: /images/preview-card.jpg
 *   <a href="https://www.skillsfuture.gov.sg/skills-framework/air-transport" target="_blank">Skills Framework for Air Transport</a>
 *   <a href="https://www.skillsfuture.gov.sg/skills-framework/aero" target="_blank">Skills Framework for Aerospace</a>
 
+*Note: List is non-exhaustive*
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} a[target="_blank"]:after {content: "";}</style>
