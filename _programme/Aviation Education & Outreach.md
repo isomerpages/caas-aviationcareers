@@ -53,6 +53,11 @@ image: /images/preview-card.jpg
 
 **Nanyang Technological University&nbsp;**
 *   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering" target="_blank">Bachelor of Engineering in Aerospace Engineering</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-business" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Business</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-data-analytics" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Data Analytics</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-entrepreneurship" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Entrepreneurship</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-sustainability" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Sustainability</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-aerospace-engineering-and-economics" target="_blank">Double Degree in Aerospace Engineering and Economics</a>
 
 **Singapore Institute of Technology**
 *   <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/air-transport-management" target="_blank">Bachelor of Science in Air Transport Management</a>
