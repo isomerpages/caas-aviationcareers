@@ -6,15 +6,21 @@ image: /images/preview-card.jpg
 ---
 ### **About Aviation Education &amp; Outreach**
 
-##### **Just out of school and looking for a tertiary&nbsp;programme&nbsp;that will equip you with the skills and competencies needed to propel you into an&nbsp;exciting career in aviation?**
+##### **Are you looking for a tertiary  programme that will equip you with the skills and competencies needed to propel you into an&nbsp;exciting career in aviation?**
 
-*There are many aviation&nbsp;programmes&nbsp;available in our local tertiary institutes.*
+*There are many aviation&nbsp;programmes&nbsp;available in our local &amp; private tertiary institutes.*
 
 **Institute of Technical Education**
-*   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-airport-operations" target="_blank">Work-Study Diploma in Airport Operations</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-customer-experience-management-(aviation-track)" target="_blank">Work-Study Diploma in Customer Experience Management (Aviation)</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-cabin-engineering" target="_blank">Work-Study Diploma in Aircraft Cabin Engineering</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-engine-maintenance" target="_blank">Work-Study Diploma in Aircraft Engine Maintenance</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-maintenance-engineering" target="_blank">Work-Study Diploma in Aircraft Maintenance Engineering</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-security-operations" target="_blank">Work-Study Diploma in Security Operations</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology" target="_blank">Nitec in Aerospace Technology</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-avionics" target="_blank">Nitec in Aerospace Avionics</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology" target="_blank">Nitec in Aerospace Machining Technology</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services</a>
 
 **Nanyang Polytechnic**&nbsp;
 *   <a href="https://www.nyp.edu.sg/schools/seg/full-time-courses/aeronautical-and-aerospace-technology.html" target="_blank">Diploma in Aeronautical &amp; Aerospace Technology</a>
@@ -47,6 +53,11 @@ image: /images/preview-card.jpg
 
 **Nanyang Technological University&nbsp;**
 *   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering" target="_blank">Bachelor of Engineering in Aerospace Engineering</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-business" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Business</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-data-analytics" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Data Analytics</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-entrepreneurship" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Entrepreneurship</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering-with-second-major-in-sustainability" target="_blank">Bachelor of Engineering in Aerospace Engineering with Second Major in Sustainability</a>
+*   <a href="https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-aerospace-engineering-and-economics" target="_blank">Double Degree in Aerospace Engineering and Economics</a>
 
 **Singapore Institute of Technology**
 *   <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/air-transport-management" target="_blank">Bachelor of Science in Air Transport Management</a>
@@ -105,6 +116,8 @@ image: /images/preview-card.jpg
 * <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93295" target="_blank">Bachelor of Aviation Management by Distance Learning</a>
 * <a href="https://www.massey.ac.nz/massey/learning/programme-course/programme.cfm?prog_id=93031" target="_blank">Master of Aviation by Distance Learning</a>
 
+*Note: Most of these courses can be taken part-time*
+
 ##### **Curious about aviation, its careers and opportunities, and want to find out more?**
 
 *Learn more about the vibrant and enriching aviation exploration&nbsp;programmes&nbsp;that will help you gain a deeper appreciation of aviation, its&nbsp;diverse sectors, careers and opportunities.*
@@ -119,5 +132,6 @@ image: /images/preview-card.jpg
 *   <a href="https://www.skillsfuture.gov.sg/skills-framework/air-transport" target="_blank">Skills Framework for Air Transport</a>
 *   <a href="https://www.skillsfuture.gov.sg/skills-framework/aero" target="_blank">Skills Framework for Aerospace</a>
 
+*Note: List is non-exhaustive*
 
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;} a[target="_blank"]:after {content: "";}</style>
