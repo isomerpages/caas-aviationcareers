@@ -55,7 +55,7 @@ Get to know some of Singapore’s aviation giants    as in-service employees rev
 	<tr>
 		<td><b>1:00pm to 1:30pm</b></td>
 		<td><b>ST Engineering</b></td>
-		<td><b>Edmund&nbsp;Chwa</b>, Director, Commercial Engines &amp; Component Repair<br><b>Kelvin Chew</b>, Assistant General Manager, Deport Operations and Senior&nbsp;Director, Engineering Software</td>
+		<td><b>Edmund&nbsp;Chwa</b>, Director, Commercial Engines &amp; Component Repair<br><b>Kelvin Chew</b>, Assistant General Manager, Depot Operations and Senior&nbsp;Director, Engineering Software</td>
 	</tr>
 	<tr>
 		<td class="tdtime"><b>1:30pm to 2:00pm</b></td>
