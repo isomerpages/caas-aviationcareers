@@ -10,3 +10,5 @@ third_nav_title: OneAviation Careers 2023
 Plan your visit early, download a copy of the programme booklet here.
 
 [Programme Booklet](/files/oac2023_booklet_a4_fa.pdf)
+
+<style>.bp-section-pagetitle h1>b:after { content: "Cok" !important; }</style>
