@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - OneAviation Careers 2023/OneAviation Careers 2023.md
       - OneAviation Careers 2023/.keep
       - Event Highlights.md
