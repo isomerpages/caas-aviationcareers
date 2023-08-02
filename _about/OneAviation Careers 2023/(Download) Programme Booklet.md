@@ -5,7 +5,7 @@ description: ""
 image: /images/preview-card.jpg
 third_nav_title: OneAviation Careers 2023
 ---
-# (Download) Programme Booklet
+# Programme Booklet
 
 Plan your visit early, download a copy of the programme booklet here.
 
