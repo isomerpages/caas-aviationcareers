@@ -17,10 +17,10 @@ image: /images/preview-card.jpg
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-engine-maintenance" target="_blank">Work-Study Diploma in Aircraft Engine Maintenance</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-aircraft-maintenance-engineering" target="_blank">Work-Study Diploma in Aircraft Maintenance Engineering</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-security-operations" target="_blank">Work-Study Diploma in Security Operations</a>
+*   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-technology" target="_blank">Nitec in Aerospace Technology</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-avionics" target="_blank">Nitec in Aerospace Avionics</a>
 *   <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-aerospace-machining-technology" target="_blank">Nitec in Aerospace Machining Technology</a>
-*   <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-passenger-services-3-year" target="_blank">Higher Nitec in Passenger Services</a>
 
 **Nanyang Polytechnic**&nbsp;
 *   <a href="https://www.nyp.edu.sg/schools/seg/full-time-courses/aeronautical-and-aerospace-technology.html" target="_blank">Diploma in Aeronautical &amp; Aerospace Technology</a>
