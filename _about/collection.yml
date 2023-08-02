@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - OneAviation Careers 2023/Programme Booklet.md
       - OneAviation Careers 2023/.keep
       - OneAviation Careers 2023/About.md
       - OneAviation Careers 2023/Event Highlights.md
