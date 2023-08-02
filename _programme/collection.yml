@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - Exhibitors.md
+      - Directory & Exhibitors.md
       - Thematic Talks​/.keep
       - Thematic Talks​/Overview.md
       - Thematic Talks​/Speakers.md
