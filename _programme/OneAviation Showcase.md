@@ -9,4 +9,11 @@ image: /images/preview-card.jpg
 
 OneAviation Showcase highlights key technology and innovation efforts driving the Air Transport Industry Transformation Map 2025. Come see the autonomous vehicles which are operating at Changi’s airside, and hear more about the exciting plans for the next generation of air traffic management operations!
 
+<!--
+[Sustainable Air Hub](/files/sustainable%20air%20hub.pdf)<br>
+[Transforming Airport Operations](/files/transforming%20airport%20oerations.pdf)<br>
+[Air Traffic Management](/files/next%20gen%20atm.pdf)<br>
+[Unmanned Systems](/files/unmanned%20systems.pdf)
+-->
+
 <style>#main-content .bp-section.bp-section-pagetitle, .bottom-navigation a {background-color: #CB6F31 !important;}</style>
