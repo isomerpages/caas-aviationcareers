@@ -1,0 +1,11 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Directory & Exhibitors.md
+      - Thematic Talks​/.keep
+      - Thematic Talks​/Overview.md
+      - Thematic Talks​/Speakers.md
+      - Company Career Talks.md
+      - OneAviation Showcase.md
+      - Aviation Education & Outreach.md
